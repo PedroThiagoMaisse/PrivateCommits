@@ -12,3 +12,10 @@ Commit: f25f4636447349179964235d68871227686a6872
     Date: Wed Jun 16 2021 14:16:52 GMT-0300 (Horário Padrão de Brasília)
     desc: AdminFinished
      32 files changed, 2678 insertions(+), 1709 deletions(-)
+
+---------------------------------------------------------
+Commit: 49e796ad7653b9d41e5af281a33e5d3dae4411a7
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jun 01 2021 08:40:04 GMT-0300 (Horário Padrão de Brasília)
+    desc: adminPortalBasic
+     20 files changed, 1179 insertions(+), 695 deletions(-)

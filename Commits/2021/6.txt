@@ -12,3 +12,10 @@ Commit: 192116663316bb7a8d5fd42a4dbe40d8ccffa3af
     Date: Tue Jul 20 2021 13:44:48 GMT-0300 (Horário Padrão de Brasília)
     desc: portal admin funcional
      1 file changed, 2 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 87029a445e6fdce1c1edf453c2e07ccaff56515f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 20 2021 13:43:37 GMT-0300 (Horário Padrão de Brasília)
+    desc: portal admin funcional
+     50 files changed, 19937 insertions(+), 1356 deletions(-)

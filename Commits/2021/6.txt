@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: e708a1c49e81fa8232808b8f3fe42e37b39a72c4
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 20 2021 09:37:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: portal admin funcional
+     3 files changed, 14 insertions(+), 14 deletions(-)

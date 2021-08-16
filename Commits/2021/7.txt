@@ -47,3 +47,10 @@ Commit: dbf27bbf6d33a4a6d438dd877ed20dad20b1be1d
     Date: Wed Aug 18 2021 15:52:05 GMT-0300 (Horário Padrão de Brasília)
     desc: n p m  funcionando
      6 files changed, 2987 insertions(+), 2305 deletions(-)
+
+---------------------------------------------------------
+Commit: 1f82636afd7460c6bab05c45abb326f8fb5ae0c0
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Aug 16 2021 14:46:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: Variáveis de config
+     39 files changed, 1044 insertions(+), 197 deletions(-)

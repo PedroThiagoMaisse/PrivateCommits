@@ -33,3 +33,10 @@ Commit: 2782906e9bff7a201fca6289310f4329c87cb860
     Date: Thu Aug 26 2021 15:30:47 GMT-0300 (Horário Padrão de Brasília)
     desc: Arrumando os componentes do portal Admin
      10 files changed, 315 insertions(+), 18155 deletions(-)
+
+---------------------------------------------------------
+Commit: 8321b57c963f409442fb756080dc770eda6b9020
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Aug 18 2021 16:18:09 GMT-0300 (Horário Padrão de Brasília)
+    desc: deletando navbar e footer
+     8 files changed, 23 insertions(+), 254 deletions(-)

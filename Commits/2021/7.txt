@@ -40,3 +40,10 @@ Commit: 8321b57c963f409442fb756080dc770eda6b9020
     Date: Wed Aug 18 2021 16:18:09 GMT-0300 (Horário Padrão de Brasília)
     desc: deletando navbar e footer
      8 files changed, 23 insertions(+), 254 deletions(-)
+
+---------------------------------------------------------
+Commit: dbf27bbf6d33a4a6d438dd877ed20dad20b1be1d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Aug 18 2021 15:52:05 GMT-0300 (Horário Padrão de Brasília)
+    desc: n p m  funcionando
+     6 files changed, 2987 insertions(+), 2305 deletions(-)

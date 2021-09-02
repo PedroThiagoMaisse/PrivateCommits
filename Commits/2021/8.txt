@@ -12,3 +12,10 @@ Commit: 7fc51fee0fc579fda7095d2b2bda9343230cfddf
     Date: Thu Sep 02 2021 09:37:06 GMT-0300 (Horário Padrão de Brasília)
     desc: Colocando mais um return res.401
      1 file changed, 1 insertion(+)
+
+---------------------------------------------------------
+Commit: 0974c3a9fa3d84d8154909af41e84ad574fbd8da
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 02 2021 07:35:14 GMT-0300 (Horário Padrão de Brasília)
+    desc: Tentando arrumar problema com email
+     1 file changed, 4 insertions(+), 4 deletions(-)

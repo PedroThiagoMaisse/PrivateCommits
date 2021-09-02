@@ -124,3 +124,10 @@ Commit: db31af103d24cb33ec00968b187a911cc8118872
     Date: Thu Sep 02 2021 09:57:59 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando alguns detalhes
      4 files changed, 4 insertions(+), 4 deletions(-)
+
+---------------------------------------------------------
+Commit: 8e65af2a9b59a307663f7332c40f5eecd8bcdceb
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 02 2021 09:45:23 GMT-0300 (Horário Padrão de Brasília)
+    desc: Arrumando um problema na library
+     1 file changed, 3 insertions(+), 3 deletions(-)

@@ -117,3 +117,10 @@ Commit: d8ae8c58ea7ff5f771d3ef4a24e31e9c7a2759a2
     Date: Thu Sep 09 2021 12:32:59 GMT-0300 (Horário Padrão de Brasília)
     desc: Corrigindo a tela home
      29 files changed, 266 insertions(+), 308 deletions(-)
+
+---------------------------------------------------------
+Commit: db31af103d24cb33ec00968b187a911cc8118872
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 02 2021 09:57:59 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando alguns detalhes
+     4 files changed, 4 insertions(+), 4 deletions(-)

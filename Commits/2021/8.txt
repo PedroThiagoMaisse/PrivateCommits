@@ -110,3 +110,10 @@ Commit: 918c1bb6f7179247903238b7491d31945fd458dd
     Date: Thu Sep 09 2021 12:43:02 GMT-0300 (Horário Padrão de Brasília)
     desc: corrigindo bug npm
      1 file changed, 5 insertions(+), 7 deletions(-)
+
+---------------------------------------------------------
+Commit: d8ae8c58ea7ff5f771d3ef4a24e31e9c7a2759a2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 09 2021 12:32:59 GMT-0300 (Horário Padrão de Brasília)
+    desc: Corrigindo a tela home
+     29 files changed, 266 insertions(+), 308 deletions(-)

@@ -103,3 +103,10 @@ Commit: 8286c2c2476c81295a14a41ecf4e4918da23825d
     Date: Mon Sep 20 2021 08:10:24 GMT-0300 (Horário Padrão de Brasília)
     desc: conexao cliente - primeira parte
      14 files changed, 18973 insertions(+), 210 deletions(-)
+
+---------------------------------------------------------
+Commit: 918c1bb6f7179247903238b7491d31945fd458dd
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 09 2021 12:43:02 GMT-0300 (Horário Padrão de Brasília)
+    desc: corrigindo bug npm
+     1 file changed, 5 insertions(+), 7 deletions(-)

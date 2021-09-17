@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: 56ba78bb01e174f777888040552503f03767266a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Sep 17 2021 13:11:32 GMT-0300 (Horário Padrão de Brasília)
+    desc: tirando o envio do html - redifiniçaõ do senha do app
+     1 file changed, 3 deletions(-)

@@ -96,3 +96,10 @@ Commit: 66f9e8f88c94e750e54c8dac352ddbaf0fe2821a
     Date: Mon Sep 20 2021 08:18:43 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando urls
      2 files changed, 5 insertions(+), 5 deletions(-)
+
+---------------------------------------------------------
+Commit: 8286c2c2476c81295a14a41ecf4e4918da23825d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 20 2021 08:10:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: conexao cliente - primeira parte
+     14 files changed, 18973 insertions(+), 210 deletions(-)

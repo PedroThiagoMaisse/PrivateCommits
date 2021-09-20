@@ -82,3 +82,10 @@ Commit: fedeb203c98fd0c32d2909f0bb12589943d6b10d
     Date: Thu Sep 23 2021 10:28:28 GMT-0300 (Horário Padrão de Brasília)
     desc: Testando algumas soluções
      10 files changed, 291 insertions(+), 306 deletions(-)
+
+---------------------------------------------------------
+Commit: deaada3a81e456cbbd1a5daf8ab54ab0ad840d41
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 20 2021 22:03:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: Aba Entregar totalmente funcional
+     18 files changed, 998 insertions(+), 396 deletions(-)

@@ -75,3 +75,10 @@ Commit: af4f0bc8f37491a0f21da6042249d753ecf753aa
     Date: Mon Sep 27 2021 08:45:39 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando navbar
      4 files changed, 105 insertions(+), 60 deletions(-)
+
+---------------------------------------------------------
+Commit: fedeb203c98fd0c32d2909f0bb12589943d6b10d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 23 2021 10:28:28 GMT-0300 (Horário Padrão de Brasília)
+    desc: Testando algumas soluções
+     10 files changed, 291 insertions(+), 306 deletions(-)

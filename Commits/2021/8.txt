@@ -68,3 +68,10 @@ Commit: 43a9051103922ac21a74fb475f63f06f75a13259
     Date: Mon Sep 27 2021 08:56:42 GMT-0300 (Horário Padrão de Brasília)
     desc: organização + appbar
      8 files changed, 16 insertions(+), 12 deletions(-)
+
+---------------------------------------------------------
+Commit: af4f0bc8f37491a0f21da6042249d753ecf753aa
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 27 2021 08:45:39 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando navbar
+     4 files changed, 105 insertions(+), 60 deletions(-)

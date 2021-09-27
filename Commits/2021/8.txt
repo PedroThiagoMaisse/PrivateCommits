@@ -54,3 +54,10 @@ Commit: afc5981e05817c01c60861dd6c3d35f0ee7e7ebf
     Date: Mon Sep 27 2021 09:40:27 GMT-0300 (Horário Padrão de Brasília)
     desc: Dashboard - Visual e organização
      4 files changed, 642 insertions(+), 96 deletions(-)
+
+---------------------------------------------------------
+Commit: 4db8cbe04d780c2ae3ae94d1ad2132325d21a9db
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 27 2021 09:14:37 GMT-0300 (Horário Padrão de Brasília)
+    desc: tab Sobre - colocação do tutorial
+     7 files changed, 74 insertions(+), 4 deletions(-)

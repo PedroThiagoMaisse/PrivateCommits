@@ -40,3 +40,10 @@ Commit: ce40427741679d1998e63f8bb1878ec3fd0b3211
     Date: Wed Sep 29 2021 08:14:50 GMT-0300 (Horário Padrão de Brasília)
     desc: portal cliente - conexao funcional
      21 files changed, 515 insertions(+), 188 deletions(-)
+
+---------------------------------------------------------
+Commit: 7e626be2b64ad40dbe8a7a050b8af031e6e948e3
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 27 2021 13:46:33 GMT-0300 (Horário Padrão de Brasília)
+    desc: Mais alguns pontos visuais
+     9 files changed, 57 insertions(+), 14 deletions(-)

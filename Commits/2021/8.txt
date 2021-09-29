@@ -33,3 +33,10 @@ Commit: a8aaa4664995ef10204fe5f8bccf849c8c8a5746
     Date: Wed Sep 29 2021 17:20:23 GMT-0300 (Horário Padrão de Brasília)
     desc: portal colaborador funcional
      3 files changed, 50 insertions(+), 20 deletions(-)
+
+---------------------------------------------------------
+Commit: ce40427741679d1998e63f8bb1878ec3fd0b3211
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Sep 29 2021 08:14:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: portal cliente - conexao funcional
+     21 files changed, 515 insertions(+), 188 deletions(-)

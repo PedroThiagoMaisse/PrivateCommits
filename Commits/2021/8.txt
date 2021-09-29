@@ -26,3 +26,10 @@ Commit: ecb54d69695b56b2dae7d967305a988539e0b215
     Date: Thu Sep 30 2021 13:11:25 GMT-0300 (Horário Padrão de Brasília)
     desc: questões visuais
      2 files changed, 12 insertions(+), 10 deletions(-)
+
+---------------------------------------------------------
+Commit: a8aaa4664995ef10204fe5f8bccf849c8c8a5746
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Sep 29 2021 17:20:23 GMT-0300 (Horário Padrão de Brasília)
+    desc: portal colaborador funcional
+     3 files changed, 50 insertions(+), 20 deletions(-)

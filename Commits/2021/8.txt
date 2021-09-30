@@ -19,3 +19,10 @@ Commit: 0974c3a9fa3d84d8154909af41e84ad574fbd8da
     Date: Thu Sep 02 2021 07:35:14 GMT-0300 (Horário Padrão de Brasília)
     desc: Tentando arrumar problema com email
      1 file changed, 4 insertions(+), 4 deletions(-)
+
+---------------------------------------------------------
+Commit: ecb54d69695b56b2dae7d967305a988539e0b215
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Sep 30 2021 13:11:25 GMT-0300 (Horário Padrão de Brasília)
+    desc: questões visuais
+     2 files changed, 12 insertions(+), 10 deletions(-)

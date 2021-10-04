@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: 0d09291f587d3c9d065c33afe33b9ec30104e8dc
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 04 2021 09:57:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: adicionando variáveis ao web.config
+     1 file changed, 2 insertions(+)

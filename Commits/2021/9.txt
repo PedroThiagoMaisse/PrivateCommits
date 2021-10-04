@@ -5,3 +5,10 @@ Commit: 0d09291f587d3c9d065c33afe33b9ec30104e8dc
     Date: Mon Oct 04 2021 09:57:35 GMT-0300 (Horário Padrão de Brasília)
     desc: adicionando variáveis ao web.config
      1 file changed, 2 insertions(+)
+
+---------------------------------------------------------
+Commit: cba4181e92c43b81f080512100fd154823d45df6
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 04 2021 07:58:42 GMT-0300 (Horário Padrão de Brasília)
+    desc: Tentando resolver o problema das libraries
+     1 file changed, 1 insertion(+)

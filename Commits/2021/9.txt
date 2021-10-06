@@ -145,3 +145,10 @@ Commit: 988739925d67db20cd8c2c3a8d32da6d19f0ef42
     Date: Wed Oct 06 2021 16:16:57 GMT-0300 (Horário Padrão de Brasília)
     desc: Arrumando Dashboard admin
      6 files changed, 29 insertions(+), 15 deletions(-)
+
+---------------------------------------------------------
+Commit: 6c9ad49801b7ddd4e4d8a89cb55582dbe7c2f921
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Oct 06 2021 15:53:56 GMT-0300 (Horário Padrão de Brasília)
+    desc: Conexão backend - final
+     15 files changed, 234 insertions(+), 53 deletions(-)

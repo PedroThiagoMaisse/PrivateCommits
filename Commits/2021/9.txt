@@ -138,3 +138,10 @@ Commit: 36b6b3a138606824869935f4a92ac19e5caa7728
     Date: Thu Oct 07 2021 15:38:00 GMT-0300 (Horário Padrão de Brasília)
     desc: Login + imagens para colaborador
      3 files changed, 26 insertions(+), 5 deletions(-)
+
+---------------------------------------------------------
+Commit: 988739925d67db20cd8c2c3a8d32da6d19f0ef42
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Oct 06 2021 16:16:57 GMT-0300 (Horário Padrão de Brasília)
+    desc: Arrumando Dashboard admin
+     6 files changed, 29 insertions(+), 15 deletions(-)

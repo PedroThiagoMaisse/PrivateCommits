@@ -131,3 +131,10 @@ Commit: d3cb7f6e1203d65f6b9872d8dd853194ce59d3de
     Date: Thu Oct 14 2021 15:58:44 GMT-0300 (Horário Padrão de Brasília)
     desc: botão de envio de qrcode
      3 files changed, 24 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 36b6b3a138606824869935f4a92ac19e5caa7728
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Oct 07 2021 15:38:00 GMT-0300 (Horário Padrão de Brasília)
+    desc: Login + imagens para colaborador
+     3 files changed, 26 insertions(+), 5 deletions(-)

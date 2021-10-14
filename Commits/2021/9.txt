@@ -124,3 +124,10 @@ Commit: a85a4c3d867a31565a46ad846494ecd0831ab70a
     Date: Fri Oct 15 2021 11:02:35 GMT-0300 (Horário Padrão de Brasília)
     desc: pré prd
      5 files changed, 280 insertions(+), 70 deletions(-)
+
+---------------------------------------------------------
+Commit: d3cb7f6e1203d65f6b9872d8dd853194ce59d3de
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Oct 14 2021 15:58:44 GMT-0300 (Horário Padrão de Brasília)
+    desc: botão de envio de qrcode
+     3 files changed, 24 insertions(+), 2 deletions(-)

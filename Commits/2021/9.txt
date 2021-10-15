@@ -110,3 +110,10 @@ Commit: 4dd3832c7c7bc9c9be37732a562deb359acd98b3
     Date: Mon Oct 18 2021 13:40:38 GMT-0300 (Horário Padrão de Brasília)
     desc: isOpen para isGenerated
      1 file changed, 3 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: 757fb4f8177f87a15a9f39d01ceafce65acb60ad
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 15 2021 15:18:44 GMT-0300 (Horário Padrão de Brasília)
+    desc: ajustes - upload de lista de promotor e preenchimento de telefone
+     3 files changed, 38 insertions(+), 27 deletions(-)

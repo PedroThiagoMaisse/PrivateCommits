@@ -117,3 +117,10 @@ Commit: 757fb4f8177f87a15a9f39d01ceafce65acb60ad
     Date: Fri Oct 15 2021 15:18:44 GMT-0300 (Horário Padrão de Brasília)
     desc: ajustes - upload de lista de promotor e preenchimento de telefone
      3 files changed, 38 insertions(+), 27 deletions(-)
+
+---------------------------------------------------------
+Commit: a85a4c3d867a31565a46ad846494ecd0831ab70a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 15 2021 11:02:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: pré prd
+     5 files changed, 280 insertions(+), 70 deletions(-)

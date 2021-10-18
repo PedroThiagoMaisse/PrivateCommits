@@ -103,3 +103,10 @@ Commit: 04b57a95964c07011c4fb72aaad6521d29ce5888
     Date: Tue Oct 19 2021 13:52:44 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando o envio de email
      3 files changed, 63 insertions(+), 21 deletions(-)
+
+---------------------------------------------------------
+Commit: 4dd3832c7c7bc9c9be37732a562deb359acd98b3
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 18 2021 13:40:38 GMT-0300 (Horário Padrão de Brasília)
+    desc: isOpen para isGenerated
+     1 file changed, 3 insertions(+), 3 deletions(-)

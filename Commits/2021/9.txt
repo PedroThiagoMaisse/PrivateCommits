@@ -89,3 +89,10 @@ Commit: 3f0ede08af63797d2156d1e22be4c3c4eaf7590d
     Date: Thu Oct 21 2021 13:54:47 GMT-0300 (Horário Padrão de Brasília)
     desc: redefinição de senha
      5 files changed, 206 insertions(+), 22 deletions(-)
+
+---------------------------------------------------------
+Commit: 5789aa4ca78ac75bedc804d8711d49abce20ae7c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Oct 19 2021 15:22:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: pre teste
+     2 files changed, 17 insertions(+), 8 deletions(-)

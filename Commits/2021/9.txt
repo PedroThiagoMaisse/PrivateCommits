@@ -96,3 +96,10 @@ Commit: 5789aa4ca78ac75bedc804d8711d49abce20ae7c
     Date: Tue Oct 19 2021 15:22:50 GMT-0300 (Horário Padrão de Brasília)
     desc: pre teste
      2 files changed, 17 insertions(+), 8 deletions(-)
+
+---------------------------------------------------------
+Commit: 04b57a95964c07011c4fb72aaad6521d29ce5888
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Oct 19 2021 13:52:44 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando o envio de email
+     3 files changed, 63 insertions(+), 21 deletions(-)

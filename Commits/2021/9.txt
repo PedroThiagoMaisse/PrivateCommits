@@ -61,3 +61,10 @@ Commit: e40b426516cf06c0586d540fae0aa5b52e94f5d9
     Date: Fri Oct 22 2021 13:05:13 GMT-0300 (Horário Padrão de Brasília)
     desc: Seleção para deletar a alteração da geração
      7 files changed, 152 insertions(+), 42 deletions(-)
+
+---------------------------------------------------------
+Commit: f5c61da5a4a299a80241ac9775ec348eab768c9a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 22 2021 10:11:51 GMT-0300 (Horário Padrão de Brasília)
+    desc: seleção de páginas de colaborador
+     7 files changed, 98 insertions(+), 10 deletions(-)

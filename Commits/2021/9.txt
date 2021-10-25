@@ -47,3 +47,10 @@ Commit: 4eff2b042a02e4a8da8874a780c3f25fb0fc79df
     Date: Mon Oct 25 2021 16:17:40 GMT-0300 (Horário Padrão de Brasília)
     desc: colaborador - estética
      13 files changed, 118 insertions(+), 33 deletions(-)
+
+---------------------------------------------------------
+Commit: 40b9950d9c01ecdc5e2f6077b326f306c3c175e3
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 25 2021 08:07:43 GMT-0300 (Horário Padrão de Brasília)
+    desc: alterando para a API do google novamente
+     8 files changed, 17 insertions(+), 30 deletions(-)

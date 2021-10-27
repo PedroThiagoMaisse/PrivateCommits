@@ -33,3 +33,10 @@ Commit: 9d60b2a9540d9ebf68a40ae0de405b2401908c13
     Date: Wed Oct 27 2021 16:03:38 GMT-0300 (Horário Padrão de Brasília)
     desc: melhorias visuais + mudanças na navbar, dashboard e tabelas
      9 files changed, 87 insertions(+), 40 deletions(-)
+
+---------------------------------------------------------
+Commit: d6e56283fcf05fab121cce65aab243b584c4f537
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Oct 27 2021 14:15:42 GMT-0300 (Horário Padrão de Brasília)
+    desc: alterações visuais - navbarm config e colaborador
+     12 files changed, 152 insertions(+), 36 deletions(-)

@@ -19,3 +19,10 @@ Commit: b4edd9f3cf021f9c4a148ebab28ce0d65eeeaf69
     Date: Fri Oct 29 2021 14:29:54 GMT-0300 (Horário Padrão de Brasília)
     desc: limpando logs
      6 files changed, 241 insertions(+), 33 deletions(-)
+
+---------------------------------------------------------
+Commit: 52bb0ff1ae312b7615fcef0ab4295c26aac4160f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 29 2021 11:07:49 GMT-0300 (Horário Padrão de Brasília)
+    desc: 10/29 - arrumando colab, dashs, e urls
+     17 files changed, 517 insertions(+), 102 deletions(-)

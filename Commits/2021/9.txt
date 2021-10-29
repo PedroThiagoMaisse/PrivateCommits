@@ -12,3 +12,10 @@ Commit: cba4181e92c43b81f080512100fd154823d45df6
     Date: Mon Oct 04 2021 07:58:42 GMT-0300 (Horário Padrão de Brasília)
     desc: Tentando resolver o problema das libraries
      1 file changed, 1 insertion(+)
+
+---------------------------------------------------------
+Commit: b4edd9f3cf021f9c4a148ebab28ce0d65eeeaf69
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 29 2021 14:29:54 GMT-0300 (Horário Padrão de Brasília)
+    desc: limpando logs
+     6 files changed, 241 insertions(+), 33 deletions(-)

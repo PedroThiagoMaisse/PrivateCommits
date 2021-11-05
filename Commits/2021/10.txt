@@ -187,3 +187,10 @@ Commit: 77f25080da90cb3dd92458052af354ad988dced8
     Date: Mon Nov 08 2021 07:14:24 GMT-0300 (Horário Padrão de Brasília)
     desc: teste - variáveis
      14 files changed, 151 insertions(+), 46 deletions(-)
+
+---------------------------------------------------------
+Commit: 240f07e494e6490d517d9fe0b43b3e2640286976
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 05 2021 17:03:12 GMT-0300 (Horário Padrão de Brasília)
+    desc: corrigindo bugs - erros em urls, e variaveis
+     3 files changed, 7 insertions(+), 4 deletions(-)

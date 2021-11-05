@@ -201,3 +201,10 @@ Commit: a3938bf42a393f89eed18f3e57e5cd582084fa97
     Date: Fri Nov 05 2021 16:19:52 GMT-0300 (Horário Padrão de Brasília)
     desc: Resolvendo erros, suporte e erros de blob
      6 files changed, 65 insertions(+), 8 deletions(-)
+
+---------------------------------------------------------
+Commit: 2c91c90e3624c67173ec6944e251cea5affe667c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 05 2021 12:19:04 GMT-0300 (Horário Padrão de Brasília)
+    desc: mudança nos footers e warnings de upload
+     3 files changed, 37 insertions(+), 20 deletions(-)

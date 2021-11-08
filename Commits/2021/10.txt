@@ -173,3 +173,10 @@ Commit: c932b6d28d6116eb0a93c2519a99cfde0701a9fd
     Date: Mon Nov 08 2021 08:26:38 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando os ultimos detalhes
      4 files changed, 38 insertions(+), 14 deletions(-)
+
+---------------------------------------------------------
+Commit: 11171e13fdeb508158c55a8052f25bfe85f3d8cf
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 08 2021 07:15:54 GMT-0300 (Horário Padrão de Brasília)
+    desc: teste - variáveis
+     5 files changed, 1 insertion(+), 13 deletions(-)

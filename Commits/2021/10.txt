@@ -159,3 +159,10 @@ Commit: 1b6c804a55c18a3986e31d68494339817a332036
     Date: Mon Nov 08 2021 14:24:10 GMT-0300 (Horário Padrão de Brasília)
     desc: atualizando erros
      1 file changed, 1 insertion(+)
+
+---------------------------------------------------------
+Commit: 72b129046194055a66665df848d1c8d0dc58a60d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 08 2021 11:56:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando as imagens
+     2 files changed, 5 insertions(+), 24 deletions(-)

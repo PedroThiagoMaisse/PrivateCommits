@@ -131,3 +131,10 @@ Commit: c0c71a1060d33a8893967c639284d690ef496731
     Date: Tue Nov 09 2021 10:59:16 GMT-0300 (Horário Padrão de Brasília)
     desc: ajuste visuais apos primeiro teste
      5 files changed, 22 insertions(+), 13 deletions(-)
+
+---------------------------------------------------------
+Commit: fcf533f7127b0818e0e960d1da2901a00b00c631
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 08 2021 16:01:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: botão de download e geração do qrcode
+     1 file changed, 7 insertions(+), 2 deletions(-)

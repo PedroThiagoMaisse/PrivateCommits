@@ -19,3 +19,10 @@ Commit: 398bd5ad429a7f1a8420b9aa19150d2e6cef0cd7
     Date: Thu Nov 25 2021 10:36:20 GMT-0300 (Horário Padrão de Brasília)
     desc: adicionando : para a rota de deletar colaborador
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: ec94f09678779dd1d7657093a7bffae7a8cd61be
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 08 2021 11:19:27 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando o upload das blobs
+     1 file changed, 55 insertions(+), 9 deletions(-)

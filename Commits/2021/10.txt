@@ -138,3 +138,10 @@ Commit: fcf533f7127b0818e0e960d1da2901a00b00c631
     Date: Mon Nov 08 2021 16:01:24 GMT-0300 (Horário Padrão de Brasília)
     desc: botão de download e geração do qrcode
      1 file changed, 7 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: c15e1dece81adaa6e5c8e26124f1cc3127824142
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 08 2021 15:04:13 GMT-0300 (Horário Padrão de Brasília)
+    desc: trocando para nossa api
+     1 file changed, 2 insertions(+), 4 deletions(-)

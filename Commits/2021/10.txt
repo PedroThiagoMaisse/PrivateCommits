@@ -117,3 +117,10 @@ Commit: bcac9ca49d1f94d3257cd5f3d406616b70733b6a
     Date: Wed Nov 10 2021 09:52:56 GMT-0300 (Horário Padrão de Brasília)
     desc: relatório de qr codes lidos
      3 files changed, 15 insertions(+), 5 deletions(-)
+
+---------------------------------------------------------
+Commit: 3c4f2ec55bafe08b338a8b05ba6be1282fa442df
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 09 2021 10:59:42 GMT-0300 (Horário Padrão de Brasília)
+    desc: ajuste visuais apos primeiro teste
+     1 file changed, 3 insertions(+), 4 deletions(-)

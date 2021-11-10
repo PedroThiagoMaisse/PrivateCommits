@@ -103,3 +103,10 @@ Commit: f0d0ba0012e85bc058e1cbfeee42bf09729694a4
     Date: Tue Nov 16 2021 14:06:23 GMT-0300 (Horário Padrão de Brasília)
     desc: limpando código - admin
      17 files changed, 289 insertions(+), 683 deletions(-)
+
+---------------------------------------------------------
+Commit: 5f16221dd29ee116b9d776b4ef1e74bfd0f051bc
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Nov 10 2021 12:15:31 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando relatório e bug de horário
+     1 file changed, 26 insertions(+), 5 deletions(-)

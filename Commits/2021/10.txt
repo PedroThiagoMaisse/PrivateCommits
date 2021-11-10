@@ -110,3 +110,10 @@ Commit: 5f16221dd29ee116b9d776b4ef1e74bfd0f051bc
     Date: Wed Nov 10 2021 12:15:31 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando relatório e bug de horário
      1 file changed, 26 insertions(+), 5 deletions(-)
+
+---------------------------------------------------------
+Commit: bcac9ca49d1f94d3257cd5f3d406616b70733b6a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Nov 10 2021 09:52:56 GMT-0300 (Horário Padrão de Brasília)
+    desc: relatório de qr codes lidos
+     3 files changed, 15 insertions(+), 5 deletions(-)

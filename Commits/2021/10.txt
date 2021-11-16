@@ -89,3 +89,10 @@ Commit: 057ade75ee5b183cd6f2cdad23685d892d6cdb2e
     Date: Wed Nov 17 2021 10:34:01 GMT-0300 (Horário Padrão de Brasília)
     desc: Adicionando filtro para o portal admin
      2 files changed, 46 insertions(+), 8 deletions(-)
+
+---------------------------------------------------------
+Commit: 606c8960f3911e0ed7d0defb4b3752cda4ccbbf2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 16 2021 14:23:17 GMT-0300 (Horário Padrão de Brasília)
+    desc: erro npm run build
+     8 files changed, 3 insertions(+), 3 deletions(-)

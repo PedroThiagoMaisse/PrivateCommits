@@ -96,3 +96,10 @@ Commit: 606c8960f3911e0ed7d0defb4b3752cda4ccbbf2
     Date: Tue Nov 16 2021 14:23:17 GMT-0300 (Horário Padrão de Brasília)
     desc: erro npm run build
      8 files changed, 3 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: f0d0ba0012e85bc058e1cbfeee42bf09729694a4
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 16 2021 14:06:23 GMT-0300 (Horário Padrão de Brasília)
+    desc: limpando código - admin
+     17 files changed, 289 insertions(+), 683 deletions(-)

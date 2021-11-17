@@ -82,3 +82,10 @@ Commit: 94e122169fd898577ce836346de77cbb6c48e7bb
     Date: Wed Nov 17 2021 13:42:05 GMT-0300 (Horário Padrão de Brasília)
     desc: limpando logs
      2 files changed, 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 057ade75ee5b183cd6f2cdad23685d892d6cdb2e
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Nov 17 2021 10:34:01 GMT-0300 (Horário Padrão de Brasília)
+    desc: Adicionando filtro para o portal admin
+     2 files changed, 46 insertions(+), 8 deletions(-)

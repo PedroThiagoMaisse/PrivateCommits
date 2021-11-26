@@ -61,3 +61,10 @@ Commit: 0b3123e97355dbb9ada756c12f9684f202a80e2d
     Date: Fri Nov 26 2021 08:44:34 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes e console logs
      3 files changed, 4 insertions(+), 9 deletions(-)
+
+---------------------------------------------------------
+Commit: 2119b4dd8c3fe1ab58b51e54757494664f35d883
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 26 2021 08:20:51 GMT-0300 (Horário Padrão de Brasília)
+    desc: mudança no funcionamento dos diálogos e calls com o back
+     11 files changed, 271 insertions(+), 668 deletions(-)

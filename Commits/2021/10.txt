@@ -5,3 +5,10 @@ Commit: 2f3f5c6c9fda0ec720d69629bf8e4adfbecf4fa5
     Date: Mon Nov 29 2021 20:35:04 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes no login colaborador e upload delista de promotor
      36 files changed, 14155 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: bc6964d3d0d72e04a59f0f233c52d3f96d8e291d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 26 2021 09:30:16 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando rota /listCompaniesWithCustomPages
+     1 file changed, 1 insertion(+), 1 deletion(-)

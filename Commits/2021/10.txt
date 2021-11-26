@@ -54,3 +54,10 @@ Commit: bcee0cb213a6df6294b6675ff8620bc35878d85e
     Date: Fri Nov 26 2021 10:13:09 GMT-0300 (Horário Padrão de Brasília)
     desc: espelhando mudanças na pagina do colaborador
      3 files changed, 9 insertions(+), 10 deletions(-)
+
+---------------------------------------------------------
+Commit: 0b3123e97355dbb9ada756c12f9684f202a80e2d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 26 2021 08:44:34 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes e console logs
+     3 files changed, 4 insertions(+), 9 deletions(-)

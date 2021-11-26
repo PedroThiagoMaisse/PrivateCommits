@@ -47,3 +47,10 @@ Commit: 7504b9654de69e9ddd8fee6d7a45b55acfab7956
     Date: Mon Nov 29 2021 15:08:07 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando deleter lista e redefinir password
      3 files changed, 12 insertions(+), 4 deletions(-)
+
+---------------------------------------------------------
+Commit: bcee0cb213a6df6294b6675ff8620bc35878d85e
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 26 2021 10:13:09 GMT-0300 (Horário Padrão de Brasília)
+    desc: espelhando mudanças na pagina do colaborador
+     3 files changed, 9 insertions(+), 10 deletions(-)

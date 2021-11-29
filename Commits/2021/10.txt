@@ -40,3 +40,10 @@ Commit: 2f6989e31c25c3ee67c4371b06fb6e475950eb10
     Date: Tue Nov 30 2021 11:44:58 GMT-0300 (Horário Padrão de Brasília)
     desc: fixe em diálogo do admin e update de versão
      4 files changed, 6 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: 7504b9654de69e9ddd8fee6d7a45b55acfab7956
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 29 2021 15:08:07 GMT-0300 (Horário Padrão de Brasília)
+    desc: arrumando deleter lista e redefinir password
+     3 files changed, 12 insertions(+), 4 deletions(-)

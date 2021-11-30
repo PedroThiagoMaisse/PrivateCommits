@@ -33,3 +33,10 @@ Commit: 531d7f56089545be709257a5c6e0cdaeef006ab6
     Date: Tue Nov 30 2021 17:22:22 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes de routes
      2 files changed, 15 insertions(+), 11 deletions(-)
+
+---------------------------------------------------------
+Commit: 2f6989e31c25c3ee67c4371b06fb6e475950eb10
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 30 2021 11:44:58 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixe em diálogo do admin e update de versão
+     4 files changed, 6 insertions(+), 3 deletions(-)

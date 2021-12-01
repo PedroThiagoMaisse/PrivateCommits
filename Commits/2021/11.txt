@@ -68,3 +68,10 @@ Commit: 75d38abd13a2f6677a7140a816d80c94b8a9cac6
     Date: Thu Dec 02 2021 19:16:57 GMT-0300 (Horário Padrão de Brasília)
     desc: espelhando o back + tela de carregamento no login do colaborador
      5 files changed, 37 insertions(+), 8 deletions(-)
+
+---------------------------------------------------------
+Commit: faed880cfb0213ba574086117e8e3484e3a39b80
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Dec 01 2021 10:34:08 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixe - deleteDelivery
+     3 files changed, 6 insertions(+), 1 deletion(-)

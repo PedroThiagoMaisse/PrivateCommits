@@ -47,3 +47,10 @@ Commit: 30863105e37064444f33dc95d38d7fe61c903435
     Date: Fri Dec 03 2021 13:42:21 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes visuais
      2 files changed, 12 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: ae00be2a07520d3fec36aad0dce4317d43bc2dcf
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Dec 03 2021 13:25:31 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixe de renomear + limpando logs
+     4 files changed, 3 insertions(+), 5 deletions(-)

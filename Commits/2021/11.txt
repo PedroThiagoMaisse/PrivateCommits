@@ -54,3 +54,10 @@ Commit: ae00be2a07520d3fec36aad0dce4317d43bc2dcf
     Date: Fri Dec 03 2021 13:25:31 GMT-0300 (Horário Padrão de Brasília)
     desc: fixe de renomear + limpando logs
      4 files changed, 3 insertions(+), 5 deletions(-)
+
+---------------------------------------------------------
+Commit: 6f66feea4ba60622ce4dc6c36a16cebc861830e2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Dec 03 2021 10:52:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixe - update de planilha + seleção de login
+     4 files changed, 87 insertions(+), 48 deletions(-)

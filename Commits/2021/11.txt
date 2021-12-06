@@ -5,3 +5,10 @@ Commit: 0d6887a4ca7c8dbf00273c7a4f4d03fac6bac1ac
     Date: Wed Dec 08 2021 12:18:25 GMT-0300 (Horário Padrão de Brasília)
     desc: arrumando função de historico
      2 files changed, 3 insertions(+)
+
+---------------------------------------------------------
+Commit: c367711db0019fb8f19d7db6e9620b944fd41022
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Dec 06 2021 08:57:14 GMT-0300 (Horário Padrão de Brasília)
+    desc: adicionando visualização de cpf no dashboard
+     1 file changed, 1 insertion(+), 1 deletion(-)

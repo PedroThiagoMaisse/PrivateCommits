@@ -33,3 +33,10 @@ Commit: 79c18ff7c9703107fc4675bf9f9ff6a464577ccb
     Date: Fri Dec 10 2021 09:58:28 GMT-0300 (Horário Padrão de Brasília)
     desc: melhoria, adicionando filtro no dashboard
      3 files changed, 16 insertions(+), 28 deletions(-)
+
+---------------------------------------------------------
+Commit: d182868d9b6f42350f035a2a0877364183376edb
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Dec 06 2021 13:18:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: melhoria - adicionando os cpfs nos relatórios
+     2 files changed, 7 insertions(+), 6 deletions(-)

@@ -26,3 +26,10 @@ Commit: 6ac4cd3dbfdf058af94fc515d1a8cf9ac799952d
     Date: Fri Dec 17 2021 07:25:19 GMT-0300 (Horário Padrão de Brasília)
     desc: comentando e esterilizando o código
      36 files changed, 1087 insertions(+), 1519 deletions(-)
+
+---------------------------------------------------------
+Commit: 79c18ff7c9703107fc4675bf9f9ff6a464577ccb
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Dec 10 2021 09:58:28 GMT-0300 (Horário Padrão de Brasília)
+    desc: melhoria, adicionando filtro no dashboard
+     3 files changed, 16 insertions(+), 28 deletions(-)

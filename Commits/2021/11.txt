@@ -19,3 +19,10 @@ Commit: 4663d8a1ec193547d825a01ef508147977db0540
     Date: Fri Dec 17 2021 07:26:10 GMT-0300 (Horário Padrão de Brasília)
     desc: limpando logs
      2 files changed, 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 6ac4cd3dbfdf058af94fc515d1a8cf9ac799952d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Dec 17 2021 07:25:19 GMT-0300 (Horário Padrão de Brasília)
+    desc: comentando e esterilizando o código
+     36 files changed, 1087 insertions(+), 1519 deletions(-)

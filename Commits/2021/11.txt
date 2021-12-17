@@ -12,3 +12,10 @@ Commit: c367711db0019fb8f19d7db6e9620b944fd41022
     Date: Mon Dec 06 2021 08:57:14 GMT-0300 (Horário Padrão de Brasília)
     desc: adicionando visualização de cpf no dashboard
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 4663d8a1ec193547d825a01ef508147977db0540
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Dec 17 2021 07:26:10 GMT-0300 (Horário Padrão de Brasília)
+    desc: limpando logs
+     2 files changed, 2 deletions(-)

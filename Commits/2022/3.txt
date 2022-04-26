@@ -19,3 +19,10 @@ Commit: 9415dd10b569bb9421ced4e25d8de104f70b124b
     Date: Tue Apr 26 2022 13:40:53 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing npm error
      14 files changed, 2006 insertions(+), 6 deletions(-)
+
+---------------------------------------------------------
+Commit: bfcf7bd3fa4a690edfaa4b59efd36809aad32bf2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Apr 26 2022 10:21:37 GMT-0300 (Horário Padrão de Brasília)
+    desc: Setting for test - Putting logs and limiting acess
+     13 files changed, 364 insertions(+), 16840 deletions(-)

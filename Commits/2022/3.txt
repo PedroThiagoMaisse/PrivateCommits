@@ -12,3 +12,10 @@ Commit: 74ed9694d36fa3653a3db1744db3a1f4406c8bd0
     Date: Tue Apr 26 2022 13:50:42 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing npm
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 9415dd10b569bb9421ced4e25d8de104f70b124b
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Apr 26 2022 13:40:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixing npm error
+     14 files changed, 2006 insertions(+), 6 deletions(-)

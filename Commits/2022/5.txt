@@ -12,3 +12,10 @@ Commit: 56062b74eda31edaf6ed2941d42492cf0758df2f
     Date: Tue Jun 28 2022 13:10:40 GMT-0300 (Horário Padrão de Brasília)
     desc: fix - build insert
      13 files changed, 2006 deletions(-)
+
+---------------------------------------------------------
+Commit: 420f3c73348dec06ce66d1f70f73f5471f77f928
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jun 28 2022 13:09:30 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix - consolidando novo login
+     11 files changed, 17754 insertions(+), 90 deletions(-)

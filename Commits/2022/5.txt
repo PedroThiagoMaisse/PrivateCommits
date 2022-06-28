@@ -5,3 +5,10 @@ Commit: d2955c4ea5100d839eabd158d784164e99d55652
     Date: Tue Jun 28 2022 13:34:44 GMT-0300 (Horário Padrão de Brasília)
     desc: adding logs
      1 file changed, 3 insertions(+)
+
+---------------------------------------------------------
+Commit: 56062b74eda31edaf6ed2941d42492cf0758df2f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jun 28 2022 13:10:40 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix - build insert
+     13 files changed, 2006 deletions(-)

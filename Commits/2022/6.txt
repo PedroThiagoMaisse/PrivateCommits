@@ -89,3 +89,10 @@ Commit: f6a1b38b5b32e7fa781275896c71adeb5ce6710d
     Date: Mon Jul 18 2022 13:35:36 GMT-0300 (Horário Padrão de Brasília)
     desc: new version - 0.25.0
      8 files changed, 331 insertions(+), 43 deletions(-)
+
+---------------------------------------------------------
+Commit: 7c0ae170d4be1bbe96cef8b9e6bfd826d0040dae
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jul 04 2022 13:34:14 GMT-0300 (Horário Padrão de Brasília)
+    desc: update 0.8 preTeste
+     15 files changed, 224 insertions(+), 134 deletions(-)

@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: 04c83eae5aa9bc30eedc96708d83e0e4546a1e23
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jul 04 2022 13:32:16 GMT-0300 (Horário Padrão de Brasília)
+    desc: update 0.8 preTeste
+     15 files changed, 4972 insertions(+), 210 deletions(-)

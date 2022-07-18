@@ -75,3 +75,10 @@ Commit: 06f7970c5562cff49e3b302b3e1677c938596e9d
     Date: Tue Jul 19 2022 14:52:14 GMT-0300 (Horário Padrão de Brasília)
     desc: added clocks for integration and fixes on insert_criteria
      4 files changed, 50 insertions(+), 13 deletions(-)
+
+---------------------------------------------------------
+Commit: 5aead3eb2ddf93929e26d4a418b8b4f2f1d8bf0b
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jul 18 2022 14:16:29 GMT-0300 (Horário Padrão de Brasília)
+    desc: added connection in the last integration date
+     1 file changed, 12 insertions(+), 4 deletions(-)

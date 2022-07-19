@@ -68,3 +68,10 @@ Commit: b75a3fa813409b6edec65a862788df5313ae8886
     Date: Tue Jul 19 2022 15:13:00 GMT-0300 (Horário Padrão de Brasília)
     desc: version fix
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 06f7970c5562cff49e3b302b3e1677c938596e9d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 19 2022 14:52:14 GMT-0300 (Horário Padrão de Brasília)
+    desc: added clocks for integration and fixes on insert_criteria
+     4 files changed, 50 insertions(+), 13 deletions(-)

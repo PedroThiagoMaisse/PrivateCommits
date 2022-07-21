@@ -47,3 +47,10 @@ Commit: 05edba6777fe2738ee86e9c7d22d814062142f55
     Date: Tue Jul 26 2022 14:13:43 GMT-0300 (Horário Padrão de Brasília)
     desc: Fixes - object error while reading xlsx
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 491f72a22b90d1a17ec5734088c0ee2a1da9805c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jul 21 2022 13:35:13 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes - perfil 5
+     2 files changed, 1 insertion(+), 5 deletions(-)

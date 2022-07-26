@@ -40,3 +40,10 @@ Commit: c17201ce4ed209af1c5462c84dabffcbaaa6a68d
     Date: Tue Jul 26 2022 15:55:54 GMT-0300 (Horário Padrão de Brasília)
     desc: added - new cicle input
      3 files changed, 262 insertions(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 05edba6777fe2738ee86e9c7d22d814062142f55
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 26 2022 14:13:43 GMT-0300 (Horário Padrão de Brasília)
+    desc: Fixes - object error while reading xlsx
+     1 file changed, 1 insertion(+), 1 deletion(-)

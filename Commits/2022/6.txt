@@ -26,3 +26,10 @@ Commit: a573ea0932c5537d5f5c6e64c42eaa2537510f12
     Date: Wed Jul 27 2022 16:34:49 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes - base de rateio insertion blocked for users with permission 1
      2 files changed, 27 insertions(+), 29 deletions(-)
+
+---------------------------------------------------------
+Commit: 70616b54061f78d8a903a9423ffeff8881ae9acd
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 26 2022 16:04:59 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes - v error
+     1 file changed, 1 insertion(+), 1 deletion(-)

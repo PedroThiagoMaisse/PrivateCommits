@@ -33,3 +33,10 @@ Commit: 70616b54061f78d8a903a9423ffeff8881ae9acd
     Date: Tue Jul 26 2022 16:04:59 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes - v error
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: c17201ce4ed209af1c5462c84dabffcbaaa6a68d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 26 2022 15:55:54 GMT-0300 (Horário Padrão de Brasília)
+    desc: added - new cicle input
+     3 files changed, 262 insertions(+), 1 deletion(-)

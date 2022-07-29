@@ -5,3 +5,10 @@ Commit: 04c83eae5aa9bc30eedc96708d83e0e4546a1e23
     Date: Mon Jul 04 2022 13:32:16 GMT-0300 (Horário Padrão de Brasília)
     desc: update 0.8 preTeste
      15 files changed, 4972 insertions(+), 210 deletions(-)
+
+---------------------------------------------------------
+Commit: 2f43905772e594af438cf7729099062f022a73a3
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Jul 29 2022 20:25:21 GMT-0300 (Horário Padrão de Brasília)
+    desc: Refactoring: login and logs
+     6 files changed, 122 insertions(+), 42 deletions(-)

@@ -26,3 +26,10 @@ Commit: 76e2c9c732f58b8f1cd1a78feb4d0a2f02adea04
     Date: Tue Aug 02 2022 13:13:52 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing the version
      1 file changed, 2 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 3a343ab59fbc5ebc3558a89808e646809ef3df01
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Aug 01 2022 13:38:27 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixing - typo
+     1 file changed, 1 insertion(+), 2 deletions(-)

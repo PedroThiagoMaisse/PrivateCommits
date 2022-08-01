@@ -33,3 +33,10 @@ Commit: 3a343ab59fbc5ebc3558a89808e646809ef3df01
     Date: Mon Aug 01 2022 13:38:27 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing - typo
      1 file changed, 1 insertion(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: b12a46b5678ac25d158113be9678d4b3648fd8fa
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Aug 01 2022 13:37:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixing - msal
+     1 file changed, 13 insertions(+), 3 deletions(-)

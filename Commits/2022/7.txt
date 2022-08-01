@@ -47,3 +47,10 @@ Commit: ea2d5c115bed3c836997db0cb68c3a90076e52d3
     Date: Mon Aug 01 2022 09:42:36 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing - error screen
      2 files changed, 1 insertion(+), 4 deletions(-)
+
+---------------------------------------------------------
+Commit: ad88d492707921fde828fe4cd2e3270d2266eac2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Aug 01 2022 09:06:12 GMT-0300 (Horário Padrão de Brasília)
+    desc: Prototype - new context.vue, dealing with login and base notifications
+     12 files changed, 302 insertions(+), 69 deletions(-)

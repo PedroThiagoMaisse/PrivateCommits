@@ -12,3 +12,10 @@ Commit: 00235249d64ee7e7aeb3827b5abe0c25554a46cd
     Date: Mon Aug 15 2022 10:05:34 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing criteria Table
      4 files changed, 39 insertions(+), 25 deletions(-)
+
+---------------------------------------------------------
+Commit: 72bedfb0027ed52a8a6e2d32bda8a5b682f1e4f9
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Tue Aug 02 2022 13:14:01 GMT-0300 (Horário Padrão de Brasília)
+    desc: Update build.yml for Azure Pipelines
+     1 file changed, 1 insertion(+), 1 deletion(-)

@@ -19,3 +19,10 @@ Commit: 72bedfb0027ed52a8a6e2d32bda8a5b682f1e4f9
     Date: Tue Aug 02 2022 13:14:01 GMT-0300 (Horário Padrão de Brasília)
     desc: Update build.yml for Azure Pipelines
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 76e2c9c732f58b8f1cd1a78feb4d0a2f02adea04
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Aug 02 2022 13:13:52 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixing the version
+     1 file changed, 2 insertions(+), 2 deletions(-)

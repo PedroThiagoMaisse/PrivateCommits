@@ -5,3 +5,10 @@ Commit: 3e25c5f186e3662bcb7e6baf606e71de086c5b0d
     Date: Wed Sep 21 2022 13:26:09 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      17 files changed, 102 insertions(+), 76 deletions(-)
+
+---------------------------------------------------------
+Commit: 4287c54dd497da83fbb4137d28eaf11a10ade666
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 19 2022 13:02:12 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixed basis
+     3 files changed, 69 insertions(+), 24 deletions(-)

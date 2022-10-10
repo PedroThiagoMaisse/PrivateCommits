@@ -82,3 +82,10 @@ Commit: 8d7154aa85e95922a7c7adae239f80c95939246e
     Date: Mon Oct 10 2022 10:40:02 GMT-0300 (Horário Padrão de Brasília)
     desc: changing the oauth method
      5 files changed, 7 insertions(+), 7 deletions(-)
+
+---------------------------------------------------------
+Commit: 1d5636717920c91d2bad7c50cdbe0e169d42b3b3
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 10 2022 10:36:03 GMT-0300 (Horário Padrão de Brasília)
+    desc: new work directory
+     9 files changed, 25266 insertions(+), 5386 deletions(-)

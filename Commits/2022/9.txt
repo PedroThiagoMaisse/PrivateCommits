@@ -75,3 +75,10 @@ Commit: 56b9a2b7a90df6fb7c9c8f160cd964a230aef9af
     Date: Sun Oct 23 2022 20:31:34 GMT-0300 (Horário Padrão de Brasília)
     desc: fixed: admin portal
      9 files changed, 434 insertions(+), 5 deletions(-)
+
+---------------------------------------------------------
+Commit: 8d7154aa85e95922a7c7adae239f80c95939246e
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 10 2022 10:40:02 GMT-0300 (Horário Padrão de Brasília)
+    desc: changing the oauth method
+     5 files changed, 7 insertions(+), 7 deletions(-)

@@ -5,3 +5,10 @@ Commit: 461d53df1fd7aa708f172198ed389b8cf99e537a
     Date: Fri Oct 28 2022 11:51:35 GMT-0300 (Horário Padrão de Brasília)
     desc: fixe: added new camp at the download
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 40cd351cf5032a778f6209dafe853940648c742c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Oct 26 2022 08:50:03 GMT-0300 (Horário Padrão de Brasília)
+    desc: cleaning log
+     1 file changed, 1 deletion(-)

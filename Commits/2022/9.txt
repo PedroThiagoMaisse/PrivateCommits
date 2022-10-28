@@ -47,3 +47,10 @@ Commit: e622a430f1f8d53f77b66204014d2d93f1db144c
     Date: Fri Oct 28 2022 10:56:59 GMT-0300 (Horário Padrão de Brasília)
     desc: refactoring: changing the pages to a object inside store
      6 files changed, 52 insertions(+), 40 deletions(-)
+
+---------------------------------------------------------
+Commit: ffddeaf9fbc991f8b9033b0cbc58f6a81dcddc35
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 28 2022 08:48:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: edit colab
+     1 file changed, 2 insertions(+), 1 deletion(-)

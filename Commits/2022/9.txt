@@ -40,3 +40,10 @@ Commit: c7ec5d11c7dd08c43a4591628cac2633ea945e4d
     Date: Fri Oct 21 2022 09:17:44 GMT-0300 (Horário Padrão de Brasília)
     desc: Added: aster promoter
      7 files changed, 6143 insertions(+), 28 deletions(-)
+
+---------------------------------------------------------
+Commit: e622a430f1f8d53f77b66204014d2d93f1db144c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 28 2022 10:56:59 GMT-0300 (Horário Padrão de Brasília)
+    desc: refactoring: changing the pages to a object inside store
+     6 files changed, 52 insertions(+), 40 deletions(-)

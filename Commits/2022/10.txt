@@ -54,3 +54,10 @@ Commit: 028fa7c9f8b5ba5887ee4a15ca76c43d3f362b7f
     Date: Mon Nov 07 2022 10:36:02 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: cpf input and null lines
      2 files changed, 8 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: bae11aeb7c91a8cac497ebb0b3a4b123d2fb1bd6
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Nov 03 2022 13:50:47 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: cpf with 11 digits always
+     1 file changed, 13 insertions(+)

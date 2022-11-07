@@ -47,3 +47,10 @@ Commit: 1689cd96143ed6e2198e630f69e00e8cd9770e77
     Date: Tue Nov 08 2022 08:41:54 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: for stone
      2 files changed, 18 insertions(+)
+
+---------------------------------------------------------
+Commit: 028fa7c9f8b5ba5887ee4a15ca76c43d3f362b7f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 07 2022 10:36:02 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: cpf input and null lines
+     2 files changed, 8 insertions(+), 2 deletions(-)

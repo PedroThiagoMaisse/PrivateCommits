@@ -26,3 +26,10 @@ Commit: d9657583bd9389c4473adaa4f4cb21ba9f685f9b
     Date: Tue Nov 08 2022 15:47:03 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: 75 main,vue color
      1 file changed, 4 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: eaff452d0eef6c39c1081130e00abdb865880b07
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 08 2022 13:29:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: colors
+     1 file changed, 3 insertions(+), 3 deletions(-)

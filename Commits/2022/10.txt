@@ -33,3 +33,10 @@ Commit: eaff452d0eef6c39c1081130e00abdb865880b07
     Date: Tue Nov 08 2022 13:29:24 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: colors
      1 file changed, 3 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: f09c5808b9ed4ec0fb0fd6c4e5b53791302dd86f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 08 2022 13:19:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: added color personalization
+     2 files changed, 28 insertions(+), 7 deletions(-)

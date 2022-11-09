@@ -12,3 +12,10 @@ Commit: daf7a86964fe3ae07c18cc33688d8faab64bfe6b
     Date: Wed Nov 16 2022 14:50:26 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: not showing personalization
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 1e746a88037dc92f81c9c9ec18c71762a7649db6
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Nov 09 2022 08:37:57 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: colors
+     1 file changed, 1 insertion(+), 1 deletion(-)

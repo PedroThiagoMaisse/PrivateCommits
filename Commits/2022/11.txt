@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: 29c8b282eeec8243a5a784ea178d8185b81c008e
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Dec 15 2022 13:51:03 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: dashboard
+     4 files changed, 31 insertions(+), 4 deletions(-)

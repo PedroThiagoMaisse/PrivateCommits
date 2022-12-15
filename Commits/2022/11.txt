@@ -12,3 +12,10 @@ Commit: 569cf08925e9f1d0e5135a12dea483a70fb9d5e5
     Date: Mon Dec 19 2022 09:15:11 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: b1e43dc27cba86a2fed060a9aa2d2934f5d8d88b
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Dec 15 2022 11:29:39 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: first admin portal page
+     7 files changed, 128 insertions(+), 25 deletions(-)

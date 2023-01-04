@@ -47,3 +47,10 @@ Commit: 20264a81c1baedfe2af6ab40189eb4bee3bf3914
     Date: Thu Jan 12 2023 11:54:50 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: ghost delivery
      1 file changed, 21 insertions(+), 16 deletions(-)
+
+---------------------------------------------------------
+Commit: 05c76dc571eca11bb495cfd1b6322eecdb0c5d0b
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Jan 04 2023 15:51:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes - mensagem do qrcode
+     3 files changed, 114 insertions(+), 43 deletions(-)

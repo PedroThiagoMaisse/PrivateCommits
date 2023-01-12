@@ -40,3 +40,10 @@ Commit: 4a1ce3eb907a3cd79c13bf5ecc651a69ed9dfda6
     Date: Mon Jan 16 2023 13:26:27 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing criteria: .v bug and esterilation
      4 files changed, 162 insertions(+), 160 deletions(-)
+
+---------------------------------------------------------
+Commit: 20264a81c1baedfe2af6ab40189eb4bee3bf3914
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jan 12 2023 11:54:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: ghost delivery
+     1 file changed, 21 insertions(+), 16 deletions(-)

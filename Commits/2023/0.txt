@@ -75,3 +75,10 @@ Commit: 45946ca73c07b100178a8ba8d68a8268d74ce86a
     Date: Tue Jan 17 2023 13:12:27 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: volume
      3 files changed, 20 insertions(+), 11 deletions(-)
+
+---------------------------------------------------------
+Commit: b7f69eeb93bb5334f1bc5cd30f86d9ff2cc3d157
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jan 16 2023 17:46:27 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: criteria, finished
+     10 files changed, 12 insertions(+), 36 deletions(-)

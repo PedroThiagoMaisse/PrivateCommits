@@ -82,3 +82,10 @@ Commit: b7f69eeb93bb5334f1bc5cd30f86d9ff2cc3d157
     Date: Mon Jan 16 2023 17:46:27 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: criteria, finished
      10 files changed, 12 insertions(+), 36 deletions(-)
+
+---------------------------------------------------------
+Commit: d29b2f779a38c5ea710961c33fcc85c9b5bd1aef
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jan 16 2023 13:26:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: .v bug and not beiong able to insert
+     4 files changed, 38 insertions(+), 21 deletions(-)

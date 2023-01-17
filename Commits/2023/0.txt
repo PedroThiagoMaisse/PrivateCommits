@@ -68,3 +68,10 @@ Commit: e13c73fb62824871db6336e34312e748b9b95f60
     Date: Mon Jan 23 2023 15:57:26 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: details saving
      3 files changed, 59 insertions(+), 67 deletions(-)
+
+---------------------------------------------------------
+Commit: 45946ca73c07b100178a8ba8d68a8268d74ce86a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jan 17 2023 13:12:27 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: volume
+     3 files changed, 20 insertions(+), 11 deletions(-)

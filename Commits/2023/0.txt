@@ -26,3 +26,10 @@ Commit: 6a3d79235ea32fcb61ac25d2ae3b04a86133fb5f
     Date: Thu Jan 19 2023 10:24:46 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: english error message
      1 file changed, 76 insertions(+), 76 deletions(-)
+
+---------------------------------------------------------
+Commit: 164afca3bef2e42d098d1fd293e4746aa20c3db7
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jan 17 2023 11:28:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: changing route getspecificSave to post
+     1 file changed, 1 insertion(+), 1 deletion(-)

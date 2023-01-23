@@ -61,3 +61,10 @@ Commit: 97a9f5ffb924640e9766f46e1267c35738cdf0d1
     Date: Thu Jan 26 2023 16:41:00 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: stackoverflow
      1 file changed, 16 insertions(+), 14 deletions(-)
+
+---------------------------------------------------------
+Commit: e13c73fb62824871db6336e34312e748b9b95f60
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jan 23 2023 15:57:26 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: details saving
+     3 files changed, 59 insertions(+), 67 deletions(-)

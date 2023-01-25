@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: 50743508fca5cacc84b88e7ffd3b52c99e0c1ace
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Jan 25 2023 09:18:32 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: apportionment saving
+     4 files changed, 44 insertions(+), 42 deletions(-)

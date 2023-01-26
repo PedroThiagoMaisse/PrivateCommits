@@ -54,3 +54,10 @@ Commit: 05c76dc571eca11bb495cfd1b6322eecdb0c5d0b
     Date: Wed Jan 04 2023 15:51:53 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes - mensagem do qrcode
      3 files changed, 114 insertions(+), 43 deletions(-)
+
+---------------------------------------------------------
+Commit: 97a9f5ffb924640e9766f46e1267c35738cdf0d1
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jan 26 2023 16:41:00 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: stackoverflow
+     1 file changed, 16 insertions(+), 14 deletions(-)

@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: 55de1fe97271840776e8912f5c89677b45f86048
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Feb 08 2023 10:51:52 GMT-0300 (Horário Padrão de Brasília)
+    desc: changed template email
+     2 files changed, 32 insertions(+), 52 deletions(-)

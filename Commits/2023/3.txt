@@ -61,3 +61,10 @@ Commit: 1c9294c69df323603c0b8a82be8ef7eee65fac48
     Date: Wed Apr 05 2023 16:02:35 GMT-0300 (Horário Padrão de Brasília)
     desc: Added README.md
      1 file changed, 20 insertions(+)
+
+---------------------------------------------------------
+Commit: 4fdb9f9679fe84e5ea62d22fbd0ea9b8c5130abc
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Apr 10 2023 15:55:26 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: footer with link, goto
+     1 file changed, 1 insertion(+), 1 deletion(-)

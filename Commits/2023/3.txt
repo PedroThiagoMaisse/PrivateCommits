@@ -26,3 +26,10 @@ Commit: d91a83b6753c8a4b746d2b51c54fc08fb416e1a8
     Date: Wed Apr 26 2023 17:05:53 GMT-0300 (Horário Padrão de Brasília)
     desc: dashboard opt
      2 files changed, 10 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 569dadb6c76aa8da923ea530140034cfa6ec90dd
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Fri Apr 14 2023 15:08:39 GMT-0300 (Horário Padrão de Brasília)
+    desc: Added Template.yml to /
+     1 file changed, 102 insertions(+)

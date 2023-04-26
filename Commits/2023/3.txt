@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: f83bf07ead02572798c8b17a8848763ef9f046cf
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Wed Apr 26 2023 17:14:57 GMT-0300 (Horário Padrão de Brasília)
+    desc: Update build_pipeline.yml for Azure Pipelines
+     1 file changed, 6 insertions(+), 6 deletions(-)

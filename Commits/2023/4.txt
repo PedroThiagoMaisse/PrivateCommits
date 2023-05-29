@@ -5,3 +5,10 @@ Commit: 6b1dafcb235c7cf109c036800cb453a254f022b7
     Date: Thu May 04 2023 08:44:40 GMT-0300 (Horário Padrão de Brasília)
     desc: npm fixes
      10 files changed, 1018 insertions(+), 4087 deletions(-)
+
+---------------------------------------------------------
+Commit: ea31be09bef89ed8f8dabb08b00d75c6a52b14c8
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Mon May 29 2023 08:54:00 GMT-0300 (Horário Padrão de Brasília)
+    desc: Update build_pipeline.yml for Azure Pipelines
+     1 file changed, 24 insertions(+), 12 deletions(-)

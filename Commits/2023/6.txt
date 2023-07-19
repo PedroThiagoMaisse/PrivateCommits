@@ -180,3 +180,10 @@ Commit: b280ca34ba326bbdf004d02b8ccd6715582f15aa
     Date: Thu Jul 20 2023 09:05:11 GMT-0300 (Horário Padrão de Brasília)
     desc: Updated build_pipeline.yml
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 27640da4e09eed46544df6288097a700a84b643c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Jul 19 2023 09:29:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: vue-cli in pipeline
+     1 file changed, 4 insertions(+)

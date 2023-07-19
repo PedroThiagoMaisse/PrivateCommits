@@ -194,3 +194,10 @@ Commit: 9c91304e49504090592468f98c615e2a6cf87a34
     Date: Wed Jul 19 2023 09:14:50 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: pipelines, commented part of .yml for tests
      1 file changed, 6 insertions(+), 6 deletions(-)
+
+---------------------------------------------------------
+Commit: 40846a31ed64f53738f615f3110eb6f5545e9e2f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Jul 19 2023 09:12:42 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: pipeline
+     1 file changed, 9 insertions(+), 8 deletions(-)

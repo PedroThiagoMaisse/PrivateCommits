@@ -229,3 +229,10 @@ Commit: 1ca3e514e537b266bff4899fe09a6bd389367dec
     Date: Wed Jul 19 2023 09:01:02 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: pipeline 2
      1 file changed, 34 insertions(+), 25 deletions(-)
+
+---------------------------------------------------------
+Commit: b532f8c3c244977bfb70b9c682b15508a9f84713
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Jul 19 2023 08:55:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: pipeline error
+     2 files changed, 33 insertions(+), 14 deletions(-)

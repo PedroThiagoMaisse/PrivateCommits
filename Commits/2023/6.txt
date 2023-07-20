@@ -145,3 +145,10 @@ Commit: 5c7829f4907c73498cf6a600a292071f67ddc519
     Date: Thu Jul 20 2023 10:32:00 GMT-0300 (Horário Padrão de Brasília)
     desc: Renamed adminportal.vue to AdminPortal.vue
      1 file changed, 0 insertions(+), 0 deletions(-)
+
+---------------------------------------------------------
+Commit: 60fc06e218c8fa77fa49eb746a2ec4d7689d0e10
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 09:31:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: continue
+     3 files changed, 2 insertions(+), 5 deletions(-)

@@ -89,3 +89,10 @@ Commit: a6f16a9d0cac81fc9c4f0a2209eed26dc6eb7359
     Date: Thu Jul 20 2023 10:40:39 GMT-0300 (Horário Padrão de Brasília)
     desc: Renamed filterbar.vue to FilterBar.vue
      1 file changed, 0 insertions(+), 0 deletions(-)
+
+---------------------------------------------------------
+Commit: cfbe800a822a9c1f93eaabff94d18f41f7b4d080
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:40:16 GMT-0300 (Horário Padrão de Brasília)
+    desc: Renamed Appbar.vue to AppBar.vue
+     1 file changed, 0 insertions(+), 0 deletions(-)

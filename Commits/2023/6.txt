@@ -75,3 +75,10 @@ Commit: dae3620f7d25130880025647874e69ceb8d0f531
     Date: Thu Jul 20 2023 10:53:32 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: visual
      1 file changed, 1 deletion(-)
+
+---------------------------------------------------------
+Commit: ffac8f9047f42937c8a69797973bd25dedbe9a28
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:45:57 GMT-0300 (Horário Padrão de Brasília)
+    desc: Updated ContentView.vue
+     1 file changed, 2 deletions(-)

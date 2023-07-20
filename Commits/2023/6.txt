@@ -138,3 +138,10 @@ Commit: c2525a344bf432e5a93d769c72edb672892903db
     Date: Thu Jul 20 2023 10:32:11 GMT-0300 (Horário Padrão de Brasília)
     desc: Renamed clientportal.vue to ClientPortal.vue
      1 file changed, 0 insertions(+), 0 deletions(-)
+
+---------------------------------------------------------
+Commit: 5c7829f4907c73498cf6a600a292071f67ddc519
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:32:00 GMT-0300 (Horário Padrão de Brasília)
+    desc: Renamed adminportal.vue to AdminPortal.vue
+     1 file changed, 0 insertions(+), 0 deletions(-)

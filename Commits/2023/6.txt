@@ -19,3 +19,10 @@ Commit: 25ce0503abad93c4d644e1af3b35bda0c1da04de
     Date: Tue Jul 25 2023 11:15:20 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: problem with custompage
      13 files changed, 261 insertions(+), 405 deletions(-)
+
+---------------------------------------------------------
+Commit: 0859a4d2c27945e656f018def958fd4a4ef6ad22
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 11:13:37 GMT-0300 (Horário Padrão de Brasília)
+    desc: Updated build_pipeline.yml
+     1 file changed, 7 insertions(+), 7 deletions(-)

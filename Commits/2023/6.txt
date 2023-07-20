@@ -68,3 +68,10 @@ Commit: 0670381c0597e3b19267ea90995e2cd441c7f840
     Date: Mon Jul 24 2023 08:58:42 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: tela de empresas não aparecendo
      4 files changed, 84 insertions(+), 105 deletions(-)
+
+---------------------------------------------------------
+Commit: dae3620f7d25130880025647874e69ceb8d0f531
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:53:32 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: visual
+     1 file changed, 1 deletion(-)

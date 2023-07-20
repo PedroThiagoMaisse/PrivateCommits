@@ -173,3 +173,10 @@ Commit: e71c926c5e96bdf6c95981b48916eeb830c93950
     Date: Thu Jul 20 2023 09:11:22 GMT-0300 (Horário Padrão de Brasília)
     desc: esterelizando código
      10 files changed, 1 insertion(+), 14 deletions(-)
+
+---------------------------------------------------------
+Commit: b280ca34ba326bbdf004d02b8ccd6715582f15aa
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 09:05:11 GMT-0300 (Horário Padrão de Brasília)
+    desc: Updated build_pipeline.yml
+     1 file changed, 1 insertion(+), 1 deletion(-)

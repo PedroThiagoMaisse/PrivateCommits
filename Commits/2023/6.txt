@@ -82,3 +82,10 @@ Commit: ffac8f9047f42937c8a69797973bd25dedbe9a28
     Date: Thu Jul 20 2023 10:45:57 GMT-0300 (Horário Padrão de Brasília)
     desc: Updated ContentView.vue
      1 file changed, 2 deletions(-)
+
+---------------------------------------------------------
+Commit: a6f16a9d0cac81fc9c4f0a2209eed26dc6eb7359
+    Author: Pedro Thiago Jose Da Silva <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:40:39 GMT-0300 (Horário Padrão de Brasília)
+    desc: Renamed filterbar.vue to FilterBar.vue
+     1 file changed, 0 insertions(+), 0 deletions(-)

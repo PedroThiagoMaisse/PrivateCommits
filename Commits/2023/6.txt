@@ -124,3 +124,10 @@ Commit: 53d1f9f5836c440cc6a9129e06e0459a36104b97
     Date: Thu Jul 20 2023 10:38:45 GMT-0300 (Horário Padrão de Brasília)
     desc: Renamed Appbar.vue to AppBar.vue
      1 file changed, 0 insertions(+), 0 deletions(-)
+
+---------------------------------------------------------
+Commit: f04656acfda55559980ad2899072ca407ff55d6a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:38:08 GMT-0300 (Horário Padrão de Brasília)
+    desc: continue
+     1 file changed, 1 insertion(+), 3 deletions(-)

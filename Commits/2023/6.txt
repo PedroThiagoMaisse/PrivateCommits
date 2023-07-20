@@ -26,3 +26,10 @@ Commit: 0859a4d2c27945e656f018def958fd4a4ef6ad22
     Date: Thu Jul 20 2023 11:13:37 GMT-0300 (Horário Padrão de Brasília)
     desc: Updated build_pipeline.yml
      1 file changed, 7 insertions(+), 7 deletions(-)
+
+---------------------------------------------------------
+Commit: f53d69579f33a564e4e3eef0db0159ee5b3aa3f8
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Jul 20 2023 10:57:40 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: package.json
+     1 file changed, 2 insertions(+), 1 deletion(-)

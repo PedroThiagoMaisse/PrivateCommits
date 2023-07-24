@@ -61,3 +61,10 @@ Commit: 2a7bf472c26dd744f86687347693cd196e7eb756
     Date: Tue Jul 25 2023 11:16:19 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: problem with custom pages
      5 files changed, 86 insertions(+), 10 deletions(-)
+
+---------------------------------------------------------
+Commit: 0670381c0597e3b19267ea90995e2cd441c7f840
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jul 24 2023 08:58:42 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: tela de empresas não aparecendo
+     4 files changed, 84 insertions(+), 105 deletions(-)

@@ -12,3 +12,10 @@ Commit: 446aa4e2277ee462a9c559e45cec84ecc499ee07
     Date: Mon Jul 31 2023 09:24:46 GMT-0300 (Horário Padrão de Brasília)
     desc: chore: novo sistema p/ porta a porta
      6 files changed, 24 insertions(+), 31 deletions(-)
+
+---------------------------------------------------------
+Commit: 25ce0503abad93c4d644e1af3b35bda0c1da04de
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 25 2023 11:15:20 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: problem with custompage
+     13 files changed, 261 insertions(+), 405 deletions(-)

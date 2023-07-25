@@ -54,3 +54,10 @@ Commit: de3ec8e6421159072af6112a10124bcf65fd28c0
     Date: Tue Jul 25 2023 11:16:44 GMT-0300 (Horário Padrão de Brasília)
     desc: removing: logs
      3 files changed, 6 deletions(-)
+
+---------------------------------------------------------
+Commit: 2a7bf472c26dd744f86687347693cd196e7eb756
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 25 2023 11:16:19 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: problem with custom pages
+     5 files changed, 86 insertions(+), 10 deletions(-)

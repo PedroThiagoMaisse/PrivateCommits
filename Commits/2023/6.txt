@@ -47,3 +47,10 @@ Commit: 42ca4c506bc22ec9afe00335e2a0db3f8dac85cd
     Date: Mon Jul 31 2023 09:29:53 GMT-0300 (Horário Padrão de Brasília)
     desc: chore: novo sistema para cep do porta a porta
      7 files changed, 368 insertions(+), 21 deletions(-)
+
+---------------------------------------------------------
+Commit: de3ec8e6421159072af6112a10124bcf65fd28c0
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Jul 25 2023 11:16:44 GMT-0300 (Horário Padrão de Brasília)
+    desc: removing: logs
+     3 files changed, 6 deletions(-)

@@ -5,3 +5,10 @@ Commit: b0e4be5c02233fdebf5340a76699f76ca2127924
     Date: Mon Jul 31 2023 11:10:59 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: login de colaborador
      1 file changed, 3 insertions(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 446aa4e2277ee462a9c559e45cec84ecc499ee07
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Jul 31 2023 09:24:46 GMT-0300 (Horário Padrão de Brasília)
+    desc: chore: novo sistema p/ porta a porta
+     6 files changed, 24 insertions(+), 31 deletions(-)

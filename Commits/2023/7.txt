@@ -96,3 +96,10 @@ Commit: 82997081295311e4654d27a36feadc3f7cd5644e
     Date: Mon Aug 14 2023 16:20:50 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: a tela de colab sempre ia p/ a versão porta a porta
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 6c6b9d93eb5567271873b18afbe9e6552fdecd81
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Aug 14 2023 11:45:55 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: subir lista promotor
+     2 files changed, 3 insertions(+), 3 deletions(-)

@@ -68,3 +68,10 @@ Commit: d6cb64880b27e71c310a79ebcd3f227ce7c09d55
     Date: Wed Aug 30 2023 10:45:16 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      3 files changed, 86 insertions(+), 33 deletions(-)
+
+---------------------------------------------------------
+Commit: 7282e26824c30a8223a51f17c043414b726fa2de
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Aug 15 2023 11:44:01 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: tirando logs
+     2 files changed, 5 deletions(-)

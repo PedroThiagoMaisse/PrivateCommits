@@ -82,3 +82,10 @@ Commit: cc9d31d36fa0a2d2ed66841b5774ba8a815c0cf5
     Date: Tue Aug 15 2023 09:28:10 GMT-0300 (Horário Padrão de Brasília)
     desc: task: novo campo na tela de porta a porta
      1 file changed, 2 insertions(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 374908bf41741814129ce793195b6141db7b6202
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Aug 15 2023 09:14:45 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: criar, editar e deletar colabs e promotores
+     2 files changed, 10 insertions(+), 3 deletions(-)

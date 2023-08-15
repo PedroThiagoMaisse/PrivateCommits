@@ -5,3 +5,10 @@ Commit: e831dc09819f9114e40f63536e4afe364f0a3ddb
     Date: Wed Aug 30 2023 10:46:24 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      1 file changed, 35 insertions(+), 70 deletions(-)
+
+---------------------------------------------------------
+Commit: 73dec52e2491b202c05996bab32419bf557cd62f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Aug 15 2023 09:27:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: task: novo campo na tela de porta a porta
+     2 files changed, 3 insertions(+), 4 deletions(-)

@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: e831dc09819f9114e40f63536e4afe364f0a3ddb
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Aug 30 2023 10:46:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes
+     1 file changed, 35 insertions(+), 70 deletions(-)

@@ -54,3 +54,10 @@ Commit: ad6f32ba806d2f5bebe26a64265aa178d09faee5
     Date: Thu Aug 31 2023 11:36:40 GMT-0300 (Horário Padrão de Brasília)
     desc: fixe: qrcode
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 302348790b0a3146e70e752d51d64c87fd13bc82
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Aug 31 2023 08:56:44 GMT-0300 (Horário Padrão de Brasília)
+    desc: tirando log
+     1 file changed, 2 deletions(-)

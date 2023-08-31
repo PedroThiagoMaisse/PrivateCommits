@@ -47,3 +47,10 @@ Commit: 5487f810a6f014e5631cc5ed5e03764bfc68cd72
     Date: Thu Aug 31 2023 15:03:26 GMT-0300 (Horário Padrão de Brasília)
     desc: fixe: qrcode
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: ad6f32ba806d2f5bebe26a64265aa178d09faee5
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Aug 31 2023 11:36:40 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixe: qrcode
+     1 file changed, 1 insertion(+), 1 deletion(-)

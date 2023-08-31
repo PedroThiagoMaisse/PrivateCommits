@@ -26,3 +26,10 @@ Commit: f5035307acd567f5476798400ace9b7cfb8a9485
     Date: Mon Aug 14 2023 11:46:25 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: subir lista de promotor
      7 files changed, 86 insertions(+), 264 deletions(-)
+
+---------------------------------------------------------
+Commit: 20c56f4eec2c0a9151915ebd69e95b29fd27d81e
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Aug 31 2023 17:27:49 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: form
+     1 file changed, 1 insertion(+), 1 deletion(-)

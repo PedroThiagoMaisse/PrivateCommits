@@ -26,3 +26,10 @@ Commit: 220ef65fac2b30d5799cafb55f39d69aff9496bc
     Date: Wed Sep 13 2023 15:29:17 GMT-0300 (Horário Padrão de Brasília)
     desc: new qrcode Email
      4 files changed, 360 insertions(+), 225 deletions(-)
+
+---------------------------------------------------------
+Commit: 6319289e0fd0ad64af5b6b30e962b6b6af9e33bf
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Sep 12 2023 17:18:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: bug: accepting data with /, using query instead of url
+     2 files changed, 2 insertions(+), 3 deletions(-)

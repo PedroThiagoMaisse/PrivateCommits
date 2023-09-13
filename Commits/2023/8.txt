@@ -19,3 +19,10 @@ Commit: ee5a16bd94c6969b95332aaf2da05b9942fed7c1
     Date: Wed Sep 20 2023 09:13:49 GMT-0300 (Horário Padrão de Brasília)
     desc: changind isGenerated status in colab login
      1 file changed, 2 insertions(+)
+
+---------------------------------------------------------
+Commit: 220ef65fac2b30d5799cafb55f39d69aff9496bc
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Sep 13 2023 15:29:17 GMT-0300 (Horário Padrão de Brasília)
+    desc: new qrcode Email
+     4 files changed, 360 insertions(+), 225 deletions(-)

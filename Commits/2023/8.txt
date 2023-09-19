@@ -54,3 +54,10 @@ Commit: 65e7ec39597fe4b38e928d1447740779f83cc2ff
     Date: Mon Sep 25 2023 15:42:04 GMT-0300 (Horário Padrão de Brasília)
     desc: fixe: resend password
      1 file changed, 303 insertions(+), 303 deletions(-)
+
+---------------------------------------------------------
+Commit: a98b5835ddee281652d617269c146abb328f9392
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Sep 19 2023 17:51:28 GMT-0300 (Horário Padrão de Brasília)
+    desc: quickfix: a flag agora é indepedente das duas condições
+     1 file changed, 5 insertions(+), 5 deletions(-)

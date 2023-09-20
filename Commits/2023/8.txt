@@ -12,3 +12,10 @@ Commit: 107e5c17a44bf963d8ff8b0ed3428d2a47d61530
     Date: Wed Sep 20 2023 09:16:23 GMT-0300 (Horário Padrão de Brasília)
     desc: cleasing a old test
      1 file changed, 38 deletions(-)
+
+---------------------------------------------------------
+Commit: ee5a16bd94c6969b95332aaf2da05b9942fed7c1
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Sep 20 2023 09:13:49 GMT-0300 (Horário Padrão de Brasília)
+    desc: changind isGenerated status in colab login
+     1 file changed, 2 insertions(+)

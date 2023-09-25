@@ -1,0 +1,7 @@
+
+---------------------------------------------------------
+Commit: e7b5e3e8ea97a4cb34b25dd57a8a86e127e4368d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 25 2023 15:42:40 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: resend password
+     3 files changed, 313 insertions(+), 285 deletions(-)

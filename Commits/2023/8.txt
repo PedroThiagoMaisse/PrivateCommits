@@ -47,3 +47,10 @@ Commit: ba37462bee26938f846d04c2dad448931ef8f4e3
     Date: Tue Sep 12 2023 16:34:40 GMT-0300 (Horário Padrão de Brasília)
     desc: task: add new function
      4 files changed, 416 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 65e7ec39597fe4b38e928d1447740779f83cc2ff
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Sep 25 2023 15:42:04 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixe: resend password
+     1 file changed, 303 insertions(+), 303 deletions(-)

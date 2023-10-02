@@ -96,3 +96,10 @@ Commit: b913d0e8a3cdf94457603a2d170f5d3c7af2d253
     Date: Mon Oct 02 2023 15:08:12 GMT-0300 (Horário Padrão de Brasília)
     desc: new: deixando o email de nova senha bonitinho tb
      2 files changed, 56 insertions(+), 38 deletions(-)
+
+---------------------------------------------------------
+Commit: f8a6e36efd22db77d1d8ca5a5a2deba1a8bb2d4d
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 02 2023 11:02:08 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: isGenerated não atualizando no envio de email
+     1 file changed, 5 insertions(+)

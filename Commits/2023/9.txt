@@ -257,3 +257,10 @@ Commit: ad3613b3bd19574dc2602f84b4156b02a4e97e37
     Date: Tue Oct 03 2023 15:41:10 GMT-0300 (Horário Padrão de Brasília)
     desc: fix
      4 files changed, 609 insertions(+), 614 deletions(-)
+
+---------------------------------------------------------
+Commit: ad6ccc814136a4232d196e48524e85c1acb142f8
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 02 2023 15:08:48 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: arrumando alguns problemas com o porta a porta e a seleção de listas de colab
+     2 files changed, 682 insertions(+), 672 deletions(-)

@@ -103,3 +103,10 @@ Commit: f8a6e36efd22db77d1d8ca5a5a2deba1a8bb2d4d
     Date: Mon Oct 02 2023 11:02:08 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: isGenerated não atualizando no envio de email
      1 file changed, 5 insertions(+)
+
+---------------------------------------------------------
+Commit: 3003a057b97717770159a249bf7827423e203078
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 02 2023 10:49:50 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: not showind all logins
+     5 files changed, 313 insertions(+), 313 deletions(-)

@@ -110,3 +110,10 @@ Commit: 3003a057b97717770159a249bf7827423e203078
     Date: Mon Oct 02 2023 10:49:50 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: not showind all logins
      5 files changed, 313 insertions(+), 313 deletions(-)
+
+---------------------------------------------------------
+Commit: 16f35e7f89a2430f3ee3d2ad384a10fbd9b8db5a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 02 2023 09:54:05 GMT-0300 (Horário Padrão de Brasília)
+    desc: novo email para cadastros
+     11 files changed, 8949 insertions(+), 8944 deletions(-)

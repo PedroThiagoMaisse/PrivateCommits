@@ -236,3 +236,10 @@ Commit: 5e526afa8f475367212270e6958c05a81492d042
     Date: Mon Oct 16 2023 09:23:02 GMT-0300 (Horário Padrão de Brasília)
     desc: controle de acessos pelo admin
      6 files changed, 905 insertions(+), 758 deletions(-)
+
+---------------------------------------------------------
+Commit: 481e8bc91f6ecaa0d78321f2eba93963f352305c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Oct 04 2023 15:43:34 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix
+     1 file changed, 1 insertion(+), 1 deletion(-)

@@ -201,3 +201,10 @@ Commit: 881f432f6946361f77cec97e579d7dc482beda8e
     Date: Mon Oct 16 2023 14:42:41 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: problema de cache
      2 files changed, 184 insertions(+), 184 deletions(-)
+
+---------------------------------------------------------
+Commit: 1051c834ae76fcd7a559c33e85aabbdd8a32e9ea
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 16 2023 14:11:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: auto login + simple screen
+     1 file changed, 26 insertions(+), 3 deletions(-)

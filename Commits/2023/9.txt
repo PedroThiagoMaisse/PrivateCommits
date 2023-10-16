@@ -54,3 +54,10 @@ Commit: 9ab1c24c6c8f4add4d0fcaf3fc0ec5cfcb8718c6
     Date: Wed Oct 25 2023 08:22:04 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      24 files changed, 1923 insertions(+), 1695 deletions(-)
+
+---------------------------------------------------------
+Commit: e44dbf950059f69df1ad18eab712e906d48632a5
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 16 2023 13:34:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: chore: jeito de baixar lista do homeDelivery
+     2 files changed, 26 insertions(+)

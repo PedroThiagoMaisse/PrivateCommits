@@ -61,3 +61,10 @@ Commit: e44dbf950059f69df1ad18eab712e906d48632a5
     Date: Mon Oct 16 2023 13:34:24 GMT-0300 (Horário Padrão de Brasília)
     desc: chore: jeito de baixar lista do homeDelivery
      2 files changed, 26 insertions(+)
+
+---------------------------------------------------------
+Commit: 9b8e48e00a974d87dcbcb1a340d71b0b8ccbcd8b
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 16 2023 09:22:11 GMT-0300 (Horário Padrão de Brasília)
+    desc: chore: controle de acessos pelo admin
+     6 files changed, 209 insertions(+), 191 deletions(-)

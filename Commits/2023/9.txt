@@ -222,3 +222,10 @@ Commit: da0d6e8004be8f4117744774cd586bfd86a5a9fc
     Date: Mon Oct 16 2023 13:33:57 GMT-0300 (Horário Padrão de Brasília)
     desc: chore: jeito de baixar as listas do porta a porta
      1 file changed, 269 insertions(+), 239 deletions(-)
+
+---------------------------------------------------------
+Commit: 557af8e84f9841f2b655ec8e90c0c7f4535843eb
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 16 2023 09:42:43 GMT-0300 (Horário Padrão de Brasília)
+    desc: esterilizando
+     1 file changed, 1 deletion(-)

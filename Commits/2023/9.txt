@@ -194,3 +194,10 @@ Commit: e42e9cbf6daf44a0a06d6e2644fc7f3460fdf4d1
     Date: Fri Oct 20 2023 10:46:53 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: page size
      12 files changed, 1910 insertions(+), 1722 deletions(-)
+
+---------------------------------------------------------
+Commit: 881f432f6946361f77cec97e579d7dc482beda8e
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 16 2023 14:42:41 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: problema de cache
+     2 files changed, 184 insertions(+), 184 deletions(-)

@@ -187,3 +187,10 @@ Commit: fd552facb79ec911e2ef3595ec8af61e4437e04c
     Date: Fri Oct 20 2023 10:49:47 GMT-0300 (Horário Padrão de Brasília)
     desc: cleaning
      5 files changed, 66 insertions(+), 716 deletions(-)
+
+---------------------------------------------------------
+Commit: e42e9cbf6daf44a0a06d6e2644fc7f3460fdf4d1
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 20 2023 10:46:53 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: page size
+     12 files changed, 1910 insertions(+), 1722 deletions(-)

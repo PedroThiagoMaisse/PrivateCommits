@@ -180,3 +180,10 @@ Commit: 280a7f63d330a79afcfd846e7b17805111fc3226
     Date: Fri Oct 20 2023 13:38:21 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      3 files changed, 436 insertions(+), 435 deletions(-)
+
+---------------------------------------------------------
+Commit: fd552facb79ec911e2ef3595ec8af61e4437e04c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 20 2023 10:49:47 GMT-0300 (Horário Padrão de Brasília)
+    desc: cleaning
+     5 files changed, 66 insertions(+), 716 deletions(-)

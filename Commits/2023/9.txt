@@ -145,3 +145,10 @@ Commit: 9f82c946a2493383ffa778b24c8d1e515e0ce1f5
     Date: Wed Oct 25 2023 08:21:41 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes
      2 files changed, 4 insertions(+), 4 deletions(-)
+
+---------------------------------------------------------
+Commit: 5fca05b6edad6960205f3f3dab07fcf90725793a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Oct 24 2023 09:52:41 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: tela de acesso geral, puxar o nome certo ao inves de sempre puxar sistema
+     1 file changed, 7 insertions(+), 1 deletion(-)

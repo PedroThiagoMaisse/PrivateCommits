@@ -33,3 +33,10 @@ Commit: 0e769a6a93e811cb30f980567778493ca7daceb0
     Date: Fri Oct 27 2023 08:56:03 GMT-0300 (Horário Padrão de Brasília)
     desc: changing the generateAt and readAt info
      5 files changed, 572 insertions(+), 429 deletions(-)
+
+---------------------------------------------------------
+Commit: c993e974173027f6ec7ec8127399c09d4ac5e524
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Wed Oct 25 2023 14:19:36 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix
+     3 files changed, 8 insertions(+), 9 deletions(-)

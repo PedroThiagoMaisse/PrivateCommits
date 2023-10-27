@@ -19,3 +19,10 @@ Commit: 0df69f151b0b0bcee9b954cf2732d79931ff1b66
     Date: Mon Oct 30 2023 09:53:00 GMT-0300 (Horário Padrão de Brasília)
     desc: task: new tags
      3 files changed, 11 insertions(+), 8 deletions(-)
+
+---------------------------------------------------------
+Commit: cb2839ac488cf246c3c0119543250d19769cada8
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Oct 27 2023 10:48:20 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix
+     1 file changed, 1 insertion(+), 2 deletions(-)

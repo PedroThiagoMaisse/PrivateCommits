@@ -131,3 +131,10 @@ Commit: 8473a6cfe2415dad94a39eca9d7b3db35fe85c05
     Date: Mon Oct 30 2023 14:00:59 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: mobile view
      3 files changed, 41 insertions(+), 7 deletions(-)
+
+---------------------------------------------------------
+Commit: 30c8274ce3f277c1c63779d23b58a8b35c1bad1c
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 30 2023 09:52:24 GMT-0300 (Horário Padrão de Brasília)
+    desc: task: new tag
+     7 files changed, 52 insertions(+), 19 deletions(-)

@@ -12,3 +12,10 @@ Commit: 185d90616158455f90b26b7355e825d6c4fd6953
     Date: Sat Oct 21 2023 12:31:40 GMT-0300 (Horário Padrão de Brasília)
     desc: Updated sharepointGet.service.ts: Get os 10k primeiros resultados
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 0df69f151b0b0bcee9b954cf2732d79931ff1b66
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 30 2023 09:53:00 GMT-0300 (Horário Padrão de Brasília)
+    desc: task: new tags
+     3 files changed, 11 insertions(+), 8 deletions(-)

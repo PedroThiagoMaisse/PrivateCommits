@@ -117,3 +117,10 @@ Commit: 16f35e7f89a2430f3ee3d2ad384a10fbd9b8db5a
     Date: Mon Oct 02 2023 09:54:05 GMT-0300 (Horário Padrão de Brasília)
     desc: novo email para cadastros
      11 files changed, 8949 insertions(+), 8944 deletions(-)
+
+---------------------------------------------------------
+Commit: 1833247287c5d24f74cbccc01ef9627a398b592f
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Oct 30 2023 14:45:47 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix
+     2 files changed, 3 insertions(+), 1 deletion(-)

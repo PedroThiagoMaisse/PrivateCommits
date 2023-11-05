@@ -243,3 +243,10 @@ Commit: 6e09cce1f4d520da292e486ad3f7372286a86a68
     Date: Tue Nov 07 2023 14:30:54 GMT-0300 (Horário Padrão de Brasília)
     desc: chore: subir informações
      7 files changed, 1889 insertions(+), 285 deletions(-)
+
+---------------------------------------------------------
+Commit: 8ec05b3109217c30fe252ead3fc05e1640bd6436
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Sun Nov 05 2023 14:04:35 GMT-0300 (Horário Padrão de Brasília)
+    desc: chore: passo 2, task: passo 3
+     5 files changed, 77 insertions(+), 10 deletions(-)

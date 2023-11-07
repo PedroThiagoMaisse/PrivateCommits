@@ -236,3 +236,10 @@ Commit: 5809fde6a1443f0072d29ecc3634a9d2aaeae714
     Date: Tue Nov 07 2023 14:45:52 GMT-0300 (Horário Padrão de Brasília)
     desc: chore: exposing csv
      2 files changed, 4 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: 6e09cce1f4d520da292e486ad3f7372286a86a68
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 07 2023 14:30:54 GMT-0300 (Horário Padrão de Brasília)
+    desc: chore: subir informações
+     7 files changed, 1889 insertions(+), 285 deletions(-)

@@ -222,3 +222,10 @@ Commit: f465ab474a214d32f939f01922f20fa2074e3646
     Date: Tue Nov 07 2023 15:02:32 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: azure
      1 file changed, 70 insertions(+), 71 deletions(-)
+
+---------------------------------------------------------
+Commit: 1f30c8f8b20ad5667c1f1023daf42893612f25fa
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 07 2023 14:54:31 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: azure
+     1 file changed, 1 insertion(+), 6 deletions(-)

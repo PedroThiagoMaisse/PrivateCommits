@@ -208,3 +208,10 @@ Commit: 39ee3f44241c8bf1d0f930a085b46b8622c0a494
     Date: Tue Nov 07 2023 15:29:01 GMT-0300 (Horário Padrão de Brasília)
     desc: task: baixando relatorio chatbot
      1 file changed, 2 insertions(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: ef72b31d834c761c3c96286bb9810393fbbc5403
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 07 2023 15:08:19 GMT-0300 (Horário Padrão de Brasília)
+    desc: fix: azure
+     1 file changed, 1 insertion(+)

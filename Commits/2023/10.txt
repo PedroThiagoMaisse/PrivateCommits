@@ -229,3 +229,10 @@ Commit: 1f30c8f8b20ad5667c1f1023daf42893612f25fa
     Date: Tue Nov 07 2023 14:54:31 GMT-0300 (Horário Padrão de Brasília)
     desc: fix: azure
      1 file changed, 1 insertion(+), 6 deletions(-)
+
+---------------------------------------------------------
+Commit: 5809fde6a1443f0072d29ecc3634a9d2aaeae714
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 07 2023 14:45:52 GMT-0300 (Horário Padrão de Brasília)
+    desc: chore: exposing csv
+     2 files changed, 4 insertions(+), 3 deletions(-)

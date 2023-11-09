@@ -187,3 +187,10 @@ Commit: 00a68a144f2401cc1908cb11e46d0f065485b7c5
     Date: Mon Nov 13 2023 16:46:19 GMT-0300 (Horário Padrão de Brasília)
     desc: task: organização + passo 7
      10 files changed, 173 insertions(+), 60 deletions(-)
+
+---------------------------------------------------------
+Commit: 093962b01fcc36ed647d34c7eb3457af684d20a4
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Nov 09 2023 09:51:46 GMT-0300 (Horário Padrão de Brasília)
+    desc: task: passo 3 e 4
+     8 files changed, 94 insertions(+), 33 deletions(-)

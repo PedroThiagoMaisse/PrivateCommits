@@ -152,3 +152,10 @@ Commit: 13a3e57ba24f20e5590b7a3fbb95bb7e678975e3
     Date: Tue Nov 14 2023 13:37:47 GMT-0300 (Horário Padrão de Brasília)
     desc: fixes: readme
      2 files changed, 17 insertions(+), 13 deletions(-)
+
+---------------------------------------------------------
+Commit: 599dfbdb8fd14baedef9e2556d6d0ac054af87b8
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 09:47:23 GMT-0300 (Horário Padrão de Brasília)
+    desc: changing the secret + getting filePath in response
+     2 files changed, 4 insertions(+), 3 deletions(-)

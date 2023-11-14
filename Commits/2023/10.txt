@@ -173,3 +173,10 @@ Commit: f10e550155146b87ddadab3e9697634d88053e58
     Date: Tue Nov 14 2023 09:36:27 GMT-0300 (Horário Padrão de Brasília)
     desc: step: 6 + organização do readme
      7 files changed, 61 insertions(+), 42 deletions(-)
+
+---------------------------------------------------------
+Commit: b958fa4d9b2c68c3c7a8ae94e2a5116b9e6722de
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 00:07:43 GMT-0300 (Horário Padrão de Brasília)
+    desc: task: 5
+     15 files changed, 186 insertions(+), 229 deletions(-)

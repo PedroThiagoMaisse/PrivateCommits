@@ -166,3 +166,10 @@ Commit: 5eec81d0c270a99a6ba291d0ce8c1eac1263b222
     Date: Tue Nov 14 2023 09:38:10 GMT-0300 (Horário Padrão de Brasília)
     desc: fixing yml
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: f10e550155146b87ddadab3e9697634d88053e58
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 09:36:27 GMT-0300 (Horário Padrão de Brasília)
+    desc: step: 6 + organização do readme
+     7 files changed, 61 insertions(+), 42 deletions(-)

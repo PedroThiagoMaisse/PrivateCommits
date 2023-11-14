@@ -292,3 +292,10 @@ Commit: 04dbdbaff3fc50dc8041f31cec6f6e360b149eb6
     Date: Tue Nov 14 2023 13:45:51 GMT-0300 (Horário Padrão de Brasília)
     desc: Create python-test.yml
      1 file changed, 29 insertions(+)
+
+---------------------------------------------------------
+Commit: df88d0d5a25dcfef5d4239a5bd83e1bd8e0f3986
+    Author: Pedro Thiago Maisse <pedrothiagojosedasilva@gmail.com>
+    Date: Tue Nov 14 2023 09:02:02 GMT-0300 (Horário Padrão de Brasília)
+    desc: Update serveless.yml
+     1 file changed, 11 deletions(-)

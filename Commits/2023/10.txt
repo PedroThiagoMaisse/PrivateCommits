@@ -40,3 +40,10 @@ Commit: 6db97d80a77e79b18098c5b93b293ef0f6dc1677
     Date: Tue Nov 14 2023 14:46:54 GMT-0300 (Horário Padrão de Brasília)
     desc: setting workflows
      3 files changed, 3 insertions(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: e919483d3776f9112cafff6d87108bbd9571ec74
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 14:35:22 GMT-0300 (Horário Padrão de Brasília)
+    desc: change pr targets
+     1 file changed, 3 insertions(+), 3 deletions(-)

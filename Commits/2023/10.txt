@@ -355,3 +355,10 @@ Commit: 53633c79a994e9ea6fee88b196c06bfd3fb48444
     Date: Tue Nov 14 2023 08:40:24 GMT-0300 (Horário Padrão de Brasília)
     desc: Update serveless.yml
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: c482ed7fc6073d35f42759d1e046d90e5cc3e302
+    Author: Pedro Thiago Maisse <pedrothiagojosedasilva@gmail.com>
+    Date: Tue Nov 14 2023 08:38:38 GMT-0300 (Horário Padrão de Brasília)
+    desc: Update serveless.yml
+     1 file changed, 6 insertions(+), 3 deletions(-)

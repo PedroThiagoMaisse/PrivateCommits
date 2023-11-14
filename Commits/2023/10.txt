@@ -61,3 +61,10 @@ Commit: cde88a589603e465c937077994f7c49ecf452931
     Date: Tue Nov 14 2023 14:29:20 GMT-0300 (Horário Padrão de Brasília)
     desc: setting the triggers
      2 files changed, 7 insertions(+), 4 deletions(-)
+
+---------------------------------------------------------
+Commit: 4526d68e1233aafd0ab98f858ad37c90e8933933
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 14:27:13 GMT-0300 (Horário Padrão de Brasília)
+    desc: setting env
+     1 file changed, 3 insertions(+)

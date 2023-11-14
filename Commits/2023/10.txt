@@ -68,3 +68,10 @@ Commit: 4526d68e1233aafd0ab98f858ad37c90e8933933
     Date: Tue Nov 14 2023 14:27:13 GMT-0300 (Horário Padrão de Brasília)
     desc: setting env
      1 file changed, 3 insertions(+)
+
+---------------------------------------------------------
+Commit: d37f284bd7ade2c6d7fe4fb955d260d0618b7ba7
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 14:25:27 GMT-0300 (Horário Padrão de Brasília)
+    desc: localTest change
+     1 file changed, 1 insertion(+), 2 deletions(-)

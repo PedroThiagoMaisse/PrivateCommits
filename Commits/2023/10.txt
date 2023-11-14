@@ -145,3 +145,10 @@ Commit: e1bf18d9cd83169ac88c1e31efbb90f3bed85f7c
     Date: Tue Nov 14 2023 13:47:51 GMT-0300 (Horário Padrão de Brasília)
     desc: start
      1 file changed, 1 insertion(+), 3 deletions(-)
+
+---------------------------------------------------------
+Commit: 13a3e57ba24f20e5590b7a3fbb95bb7e678975e3
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 14 2023 13:37:47 GMT-0300 (Horário Padrão de Brasília)
+    desc: fixes: readme
+     2 files changed, 17 insertions(+), 13 deletions(-)

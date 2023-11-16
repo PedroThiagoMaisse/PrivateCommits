@@ -12,3 +12,10 @@ Commit: eb7987dbd8723d5a228a190306bf7d136f59cac2
     Date: Fri Nov 17 2023 08:43:25 GMT-0300 (Horário Padrão de Brasília)
     desc: changing a func name
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: a6e827a908d98dabf7eedf4b3f5ce540252fc0fd
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Thu Nov 16 2023 15:44:42 GMT-0300 (Horário Padrão de Brasília)
+    desc: task: novo campo
+     4 files changed, 10 insertions(+), 9 deletions(-)

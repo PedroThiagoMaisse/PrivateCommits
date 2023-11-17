@@ -271,3 +271,10 @@ Commit: 9eb46337f4ca028a6597e22ce3acb5e7c367e84a
     Date: Mon Nov 20 2023 09:55:00 GMT-0300 (Horário Padrão de Brasília)
     desc: cpf as **
      1 file changed, 2 insertions(+), 2 deletions(-)
+
+---------------------------------------------------------
+Commit: 282f7926a491d06597d2077b906db55d9bf416a2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 17 2023 08:42:05 GMT-0300 (Horário Padrão de Brasília)
+    desc: adding obs
+     4 files changed, 5 insertions(+), 3 deletions(-)

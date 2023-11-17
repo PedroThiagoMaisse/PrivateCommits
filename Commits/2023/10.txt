@@ -5,3 +5,10 @@ Commit: 1bb9034f0ab36164990d3b1a100df4fdaac9a226
     Date: Mon Nov 20 2023 13:12:05 GMT-0300 (Horário Padrão de Brasília)
     desc: fix
      1 file changed, 1 insertion(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: eb7987dbd8723d5a228a190306bf7d136f59cac2
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Fri Nov 17 2023 08:43:25 GMT-0300 (Horário Padrão de Brasília)
+    desc: changing a func name
+     1 file changed, 1 insertion(+), 1 deletion(-)

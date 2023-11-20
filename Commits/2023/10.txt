@@ -264,3 +264,10 @@ Commit: 6783dce144ddfb9f0acd8e58153d3c2d02e21b88
     Date: Tue Nov 21 2023 10:14:10 GMT-0300 (Horário Padrão de Brasília)
     desc: adding privacy page
      2 files changed, 23 insertions(+)
+
+---------------------------------------------------------
+Commit: 9eb46337f4ca028a6597e22ce3acb5e7c367e84a
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Mon Nov 20 2023 09:55:00 GMT-0300 (Horário Padrão de Brasília)
+    desc: cpf as **
+     1 file changed, 2 insertions(+), 2 deletions(-)

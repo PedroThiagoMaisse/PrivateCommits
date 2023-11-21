@@ -257,3 +257,10 @@ Commit: ba1c32b69f93bea4dafd630591b57c80f4a8d037
     Date: Sun Nov 05 2023 12:34:43 GMT-0300 (Horário Padrão de Brasília)
     desc: starting
      4 files changed, 53 insertions(+), 1 deletion(-)
+
+---------------------------------------------------------
+Commit: 6783dce144ddfb9f0acd8e58153d3c2d02e21b88
+    Author: Pedro Thiago <pedro.thiago@brf.com>
+    Date: Tue Nov 21 2023 10:14:10 GMT-0300 (Horário Padrão de Brasília)
+    desc: adding privacy page
+     2 files changed, 23 insertions(+)
